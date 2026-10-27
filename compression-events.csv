@@ -1,0 +1,234 @@
+harness,run_id,task_id,attempt_id,event_index,event_type,before_tokens,after_tokens,before_source,after_source,next_request_input_tokens,next_request_input_source,shadowed_tokens,summary_input_tokens,summary_output_tokens
+Claude Code,terminal-m3-64k-1200-offline-v3,adaptive-rejection-sampler,1792489304368165179,1,compact_boundary,64393,10304,compact_metadata.pre_tokens,compact_metadata.post_tokens,,,,,
+Claude Code,terminal-m3-64k-1200-offline-v3,adaptive-rejection-sampler,1792489304368165179,2,compact_boundary,64017,3825,compact_metadata.pre_tokens,compact_metadata.post_tokens,,,,,
+Claude Code,terminal-m3-64k-1200-offline-v3,build-cython-ext,1792490943711244853,1,compact_boundary,64482,6791,compact_metadata.pre_tokens,compact_metadata.post_tokens,,,,,
+Claude Code,terminal-m3-64k-1200-offline-v3,cobol-modernization,1792501261665086518,1,compact_boundary,67611,11252,compact_metadata.pre_tokens,compact_metadata.post_tokens,,,,,
+Claude Code,terminal-m3-64k-1200-offline-v3,custom-memory-heap-crash,1792505332318004313,1,compact_boundary,64171,5587,compact_metadata.pre_tokens,compact_metadata.post_tokens,,,,,
+Claude Code,terminal-m3-64k-1200-offline-v3,custom-memory-heap-crash,1792505332318004313,2,compact_boundary,64499,6235,compact_metadata.pre_tokens,compact_metadata.post_tokens,,,,,
+Claude Code,terminal-m3-64k-1200-offline-v3,dna-assembly,1792506898408619732,1,compact_boundary,79829,30137,compact_metadata.pre_tokens,compact_metadata.post_tokens,,,,,
+Claude Code,terminal-m3-64k-1200-offline-v3,dna-assembly,1792506898408619732,2,compact_boundary,72154,14641,compact_metadata.pre_tokens,compact_metadata.post_tokens,,,,,
+Claude Code,terminal-m3-64k-1200-offline-v3,feal-differential-cryptanalysis,1792509815662265744,1,compact_boundary,64019,5402,compact_metadata.pre_tokens,compact_metadata.post_tokens,,,,,
+Claude Code,terminal-m3-64k-1200-offline-v3,feal-linear-cryptanalysis,1792510201810074138,1,compact_boundary,69324,13827,compact_metadata.pre_tokens,compact_metadata.post_tokens,,,,,
+Claude Code,terminal-m3-64k-1200-offline-v3,filter-js-from-html,1792510590158566237,1,compact_boundary,64181,12769,compact_metadata.pre_tokens,compact_metadata.post_tokens,,,,,
+Claude Code,terminal-m3-64k-1200-offline-v3,filter-js-from-html,1792510590158566237,2,compact_boundary,64158,10081,compact_metadata.pre_tokens,compact_metadata.post_tokens,,,,,
+Claude Code,terminal-m3-64k-1200-offline-v3,filter-js-from-html,1792510590158566237,3,compact_boundary,63618,8733,compact_metadata.pre_tokens,compact_metadata.post_tokens,,,,,
+Claude Code,terminal-m3-64k-1200-offline-v3,financial-document-processor,1792512359880804874,1,compact_boundary,67085,6049,compact_metadata.pre_tokens,compact_metadata.post_tokens,,,,,
+Claude Code,terminal-m3-64k-1200-offline-v3,fix-ocaml-gc,1792512772692700616,1,compact_boundary,63910,6074,compact_metadata.pre_tokens,compact_metadata.post_tokens,,,,,
+Claude Code,terminal-m3-64k-1200-offline-v3,gcode-to-text,1792514479095866801,1,compact_boundary,64514,9243,compact_metadata.pre_tokens,compact_metadata.post_tokens,,,,,
+Claude Code,terminal-m3-64k-1200-offline-v3,gpt2-codegolf,1792515491825801592,1,compact_boundary,67407,6574,compact_metadata.pre_tokens,compact_metadata.post_tokens,,,,,
+Claude Code,terminal-m3-64k-1200-offline-v3,gpt2-codegolf,1792515491825801592,2,compact_boundary,69905,8724,compact_metadata.pre_tokens,compact_metadata.post_tokens,,,,,
+Claude Code,terminal-m3-64k-1200-offline-v3,gpt2-codegolf,1792515491825801592,3,compact_boundary,65998,6969,compact_metadata.pre_tokens,compact_metadata.post_tokens,,,,,
+Claude Code,terminal-m3-64k-1200-offline-v3,gpt2-codegolf,1792515491825801592,4,compact_boundary,66873,9716,compact_metadata.pre_tokens,compact_metadata.post_tokens,,,,,
+Claude Code,terminal-m3-64k-1200-offline-v3,headless-terminal,1792516729001295961,1,compact_boundary,64402,9567,compact_metadata.pre_tokens,compact_metadata.post_tokens,,,,,
+Claude Code,terminal-m3-64k-1200-offline-v3,headless-terminal,1792516729001295961,2,compact_boundary,65264,6363,compact_metadata.pre_tokens,compact_metadata.post_tokens,,,,,
+Claude Code,terminal-m3-64k-1200-offline-v3,largest-eigenval,1792520364633303094,1,compact_boundary,91248,6939,compact_metadata.pre_tokens,compact_metadata.post_tokens,,,,,
+Claude Code,terminal-m3-64k-1200-offline-v3,largest-eigenval,1792520364633303094,2,compact_boundary,79100,20700,compact_metadata.pre_tokens,compact_metadata.post_tokens,,,,,
+Claude Code,terminal-m3-64k-1200-offline-v3,largest-eigenval,1792520364633303094,3,compact_boundary,64500,11296,compact_metadata.pre_tokens,compact_metadata.post_tokens,,,,,
+Claude Code,terminal-m3-64k-1200-offline-v3,llm-inference-batching-scheduler,1792521306536671167,1,compact_boundary,71245,16082,compact_metadata.pre_tokens,compact_metadata.post_tokens,,,,,
+Claude Code,terminal-m3-64k-1200-offline-v3,llm-inference-batching-scheduler,1792521306536671167,2,compact_boundary,65644,15025,compact_metadata.pre_tokens,compact_metadata.post_tokens,,,,,
+Claude Code,terminal-m3-64k-1200-offline-v3,llm-inference-batching-scheduler,1792521306536671167,3,compact_boundary,64773,12501,compact_metadata.pre_tokens,compact_metadata.post_tokens,,,,,
+Claude Code,terminal-m3-64k-1200-offline-v3,mailman,1792522604606448141,1,compact_boundary,70202,22533,compact_metadata.pre_tokens,compact_metadata.post_tokens,,,,,
+Claude Code,terminal-m3-64k-1200-offline-v3,mailman,1792522604606448141,2,compact_boundary,64024,12253,compact_metadata.pre_tokens,compact_metadata.post_tokens,,,,,
+Claude Code,terminal-m3-64k-1200-offline-v3,make-doom-for-mips,1792523487643726837,1,compact_boundary,67049,10509,compact_metadata.pre_tokens,compact_metadata.post_tokens,,,,,
+Claude Code,terminal-m3-64k-1200-offline-v3,make-doom-for-mips,1792523487643726837,2,compact_boundary,66247,10958,compact_metadata.pre_tokens,compact_metadata.post_tokens,,,,,
+Claude Code,terminal-m3-64k-1200-offline-v3,make-doom-for-mips,1792523487643726837,3,compact_boundary,76683,20119,compact_metadata.pre_tokens,compact_metadata.post_tokens,,,,,
+Claude Code,terminal-m3-64k-1200-offline-v3,make-doom-for-mips,1792523487643726837,4,compact_boundary,63575,24418,compact_metadata.pre_tokens,compact_metadata.post_tokens,,,,,
+Claude Code,terminal-m3-64k-1200-offline-v3,make-doom-for-mips,1792523487643726837,5,compact_boundary,80340,22232,compact_metadata.pre_tokens,compact_metadata.post_tokens,,,,,
+Claude Code,terminal-m3-64k-1200-offline-v3,make-doom-for-mips,1792523487643726837,6,compact_boundary,64556,11105,compact_metadata.pre_tokens,compact_metadata.post_tokens,,,,,
+Claude Code,terminal-m3-64k-1200-offline-v3,make-doom-for-mips,1792523487643726837,7,compact_boundary,65271,9918,compact_metadata.pre_tokens,compact_metadata.post_tokens,,,,,
+Claude Code,terminal-m3-64k-1200-offline-v3,make-mips-interpreter,1792524757150226039,1,compact_boundary,64055,7151,compact_metadata.pre_tokens,compact_metadata.post_tokens,,,,,
+Claude Code,terminal-m3-64k-1200-offline-v3,make-mips-interpreter,1792524757150226039,2,compact_boundary,77827,16519,compact_metadata.pre_tokens,compact_metadata.post_tokens,,,,,
+Claude Code,terminal-m3-64k-1200-offline-v3,make-mips-interpreter,1792524757150226039,3,compact_boundary,73267,16832,compact_metadata.pre_tokens,compact_metadata.post_tokens,,,,,
+Claude Code,terminal-m3-64k-1200-offline-v3,make-mips-interpreter,1792524757150226039,4,compact_boundary,78844,16964,compact_metadata.pre_tokens,compact_metadata.post_tokens,,,,,
+Claude Code,terminal-m3-64k-1200-offline-v3,make-mips-interpreter,1792524757150226039,5,compact_boundary,64149,8067,compact_metadata.pre_tokens,compact_metadata.post_tokens,,,,,
+Claude Code,terminal-m3-64k-1200-offline-v3,model-extraction-relu-logits,1792527037510399566,1,compact_boundary,65024,8799,compact_metadata.pre_tokens,compact_metadata.post_tokens,,,,,
+Claude Code,terminal-m3-64k-1200-offline-v3,model-extraction-relu-logits,1792527037510399566,2,compact_boundary,68301,13571,compact_metadata.pre_tokens,compact_metadata.post_tokens,,,,,
+Claude Code,terminal-m3-64k-1200-offline-v3,model-extraction-relu-logits,1792527037510399566,3,compact_boundary,64330,8383,compact_metadata.pre_tokens,compact_metadata.post_tokens,,,,,
+Claude Code,terminal-m3-64k-1200-offline-v3,path-tracing,1792529430022892409,1,compact_boundary,64181,8892,compact_metadata.pre_tokens,compact_metadata.post_tokens,,,,,
+Claude Code,terminal-m3-64k-1200-offline-v3,path-tracing-reverse,1792529708693959750,1,compact_boundary,68893,7454,compact_metadata.pre_tokens,compact_metadata.post_tokens,,,,,
+Claude Code,terminal-m3-64k-1200-offline-v3,path-tracing-reverse,1792529708693959750,2,compact_boundary,82369,17949,compact_metadata.pre_tokens,compact_metadata.post_tokens,,,,,
+Claude Code,terminal-m3-64k-1200-offline-v3,path-tracing-reverse,1792529708693959750,3,compact_boundary,64529,7089,compact_metadata.pre_tokens,compact_metadata.post_tokens,,,,,
+Claude Code,terminal-m3-64k-1200-offline-v3,path-tracing-reverse,1792529708693959750,4,compact_boundary,66549,6726,compact_metadata.pre_tokens,compact_metadata.post_tokens,,,,,
+Claude Code,terminal-m3-64k-1200-offline-v3,path-tracing-reverse,1792529708693959750,5,compact_boundary,67724,8530,compact_metadata.pre_tokens,compact_metadata.post_tokens,,,,,
+Claude Code,terminal-m3-64k-1200-offline-v3,portfolio-optimization,1792550877642638714,1,compact_boundary,67544,15862,compact_metadata.pre_tokens,compact_metadata.post_tokens,,,,,
+Claude Code,terminal-m3-64k-1200-offline-v3,query-optimize,1792576971143635107,1,compact_boundary,63949,5446,compact_metadata.pre_tokens,compact_metadata.post_tokens,,,,,
+Claude Code,terminal-m3-64k-1200-offline-v3,raman-fitting,1792579007802439366,1,compact_boundary,68168,12072,compact_metadata.pre_tokens,compact_metadata.post_tokens,,,,,
+Claude Code,terminal-m3-64k-1200-offline-v3,raman-fitting,1792579007802439366,2,compact_boundary,66267,10275,compact_metadata.pre_tokens,compact_metadata.post_tokens,,,,,
+Claude Code,terminal-m3-64k-1200-offline-v3,regex-chess,1792580263909877259,1,compact_boundary,63329,16362,compact_metadata.pre_tokens,compact_metadata.post_tokens,,,,,
+Claude Code,terminal-m3-64k-1200-offline-v3,reshard-c4-data,1792581660755211911,1,compact_boundary,67106,21878,compact_metadata.pre_tokens,compact_metadata.post_tokens,,,,,
+Claude Code,terminal-m3-64k-1200-offline-v3,schemelike-metacircular-eval,1792585150484609195,1,compact_boundary,65021,22488,compact_metadata.pre_tokens,compact_metadata.post_tokens,,,,,
+Claude Code,terminal-m3-64k-1200-offline-v3,schemelike-metacircular-eval,1792585150484609195,2,compact_boundary,67626,16834,compact_metadata.pre_tokens,compact_metadata.post_tokens,,,,,
+Claude Code,terminal-m3-64k-1200-offline-v3,torch-pipeline-parallelism,1792587235034081116,1,compact_boundary,63919,7223,compact_metadata.pre_tokens,compact_metadata.post_tokens,,,,,
+Claude Code,terminal-m3-64k-1200-offline-v3,video-processing,1792604897579097535,1,compact_boundary,67853,7389,compact_metadata.pre_tokens,compact_metadata.post_tokens,,,,,
+Claude Code,terminal-m3-64k-1200-offline-v3,winning-avg-corewars,1792605948180868918,1,compact_boundary,65296,7568,compact_metadata.pre_tokens,compact_metadata.post_tokens,,,,,
+Claude Code,terminal-m3-64k-1200-offline-v3,winning-avg-corewars,1792605948180868918,2,compact_boundary,65417,10017,compact_metadata.pre_tokens,compact_metadata.post_tokens,,,,,
+Claude Code,terminal-m3-64k-1200-offline-v3,winning-avg-corewars,1792605948180868918,3,compact_boundary,76455,20215,compact_metadata.pre_tokens,compact_metadata.post_tokens,,,,,
+Claude Code,terminal-m3-64k-1200-offline-v3,write-compressor,1792607191456983912,1,compact_boundary,63990,6421,compact_metadata.pre_tokens,compact_metadata.post_tokens,,,,,
+Claude Code,terminal-m3-64k-1200-offline-v3,write-compressor,1792607191456983912,2,compact_boundary,66124,10885,compact_metadata.pre_tokens,compact_metadata.post_tokens,,,,,
+Codex,terminal-ark-m3-codex-64k-1200-offline-v1,circuit-fibsqrt,1792556463264293436,1,compacted,,,,,10427,next_token_usage_record.usage.input_tokens,,61544,1700
+Codex,terminal-ark-m3-codex-64k-1200-offline-v1,circuit-fibsqrt,1792556463264293436,2,compacted,,,,,10943,next_token_usage_record.usage.input_tokens,,63528,2238
+Codex,terminal-ark-m3-codex-64k-1200-offline-v1,cobol-modernization,1792557691159403631,1,compacted,,,,,11901,next_token_usage_record.usage.input_tokens,,60808,3129
+Codex,terminal-ark-m3-codex-64k-1200-offline-v1,cobol-modernization,1792557691159403631,2,compacted,,,,,11526,next_token_usage_record.usage.input_tokens,,73663,2755
+Codex,terminal-ark-m3-codex-64k-1200-offline-v1,cobol-modernization,1792557691159403631,3,compacted,,,,,11317,next_token_usage_record.usage.input_tokens,,65454,2545
+Codex,terminal-ark-m3-codex-64k-1200-offline-v1,dna-assembly,1792562189469156737,1,compacted,,,,,11168,next_token_usage_record.usage.input_tokens,,60526,2269
+Codex,terminal-ark-m3-codex-64k-1200-offline-v1,dna-insert,1792563416193075960,1,compacted,,,,,9751,next_token_usage_record.usage.input_tokens,,60937,1047
+Codex,terminal-ark-m3-codex-64k-1200-offline-v1,feal-differential-cryptanalysis,1792566076852382651,1,compacted,,,,,9873,next_token_usage_record.usage.input_tokens,,61259,1294
+Codex,terminal-ark-m3-codex-64k-1200-offline-v1,filter-js-from-html,1792568148596169618,1,compacted,,,,,9369,next_token_usage_record.usage.input_tokens,,60997,799
+Codex,terminal-ark-m3-codex-64k-1200-offline-v1,financial-document-processor,1792569300791532777,1,compacted,,,,,10765,next_token_usage_record.usage.input_tokens,,60511,2052
+Codex,terminal-ark-m3-codex-64k-1200-offline-v1,gcode-to-text,1792572652801503724,1,compacted,,,,,9309,next_token_usage_record.usage.input_tokens,,60570,970
+Codex,terminal-ark-m3-codex-64k-1200-offline-v1,gpt2-codegolf,1792574618563285335,1,compacted,,,,,10446,next_token_usage_record.usage.input_tokens,,62030,1863
+Codex,terminal-ark-m3-codex-64k-1200-offline-v1,headless-terminal,1792575852712827660,1,compacted,,,,,10128,next_token_usage_record.usage.input_tokens,,60147,1531
+Codex,terminal-ark-m3-codex-64k-1200-offline-v1,largest-eigenval,1792579249454740322,1,compacted,,,,,11484,next_token_usage_record.usage.input_tokens,,66710,2857
+Codex,terminal-ark-m3-codex-64k-1200-offline-v1,llm-inference-batching-scheduler,1792580492094035927,1,compacted,,,,,11140,next_token_usage_record.usage.input_tokens,,62955,1538
+Codex,terminal-ark-m3-codex-64k-1200-offline-v1,llm-inference-batching-scheduler,1792580492094035927,2,compacted,,,,,10981,next_token_usage_record.usage.input_tokens,,63456,1379
+Codex,terminal-ark-m3-codex-64k-1200-offline-v1,mailman,1792581807761058651,1,compacted,,,,,10228,next_token_usage_record.usage.input_tokens,,60347,1541
+Codex,terminal-ark-m3-codex-64k-1200-offline-v1,make-doom-for-mips,1792583052429598590,1,compacted,,,,,11945,next_token_usage_record.usage.input_tokens,,60200,3366
+Codex,terminal-ark-m3-codex-64k-1200-offline-v1,make-doom-for-mips,1792583052429598590,2,compacted,,,,,11165,next_token_usage_record.usage.input_tokens,,62656,2585
+Codex,terminal-ark-m3-codex-64k-1200-offline-v1,make-doom-for-mips,1792583052429598590,3,compacted,,,,,13185,next_token_usage_record.usage.input_tokens,,64427,4604
+Codex,terminal-ark-m3-codex-64k-1200-offline-v1,make-mips-interpreter,1792584317706017464,1,compacted,,,,,10839,next_token_usage_record.usage.input_tokens,,60523,2271
+Codex,terminal-ark-m3-codex-64k-1200-offline-v1,make-mips-interpreter,1792584317706017464,2,compacted,,,,,11383,next_token_usage_record.usage.input_tokens,,61325,2815
+Codex,terminal-ark-m3-codex-64k-1200-offline-v1,make-mips-interpreter,1792584317706017464,3,compacted,,,,,11271,next_token_usage_record.usage.input_tokens,,63766,2725
+Codex,terminal-ark-m3-codex-64k-1200-offline-v1,model-extraction-relu-logits,1792587073349955305,1,compacted,,,,,9603,next_token_usage_record.usage.input_tokens,,67053,996
+Codex,terminal-ark-m3-codex-64k-1200-offline-v1,overfull-hbox,1792637647406311077,1,compacted,,,,,10378,next_token_usage_record.usage.input_tokens,,60220,1822
+Codex,terminal-ark-m3-codex-64k-1200-offline-v1,path-tracing,1792639340631244200,1,compacted,,,,,10692,next_token_usage_record.usage.input_tokens,,63909,2028
+Codex,terminal-ark-m3-codex-64k-1200-offline-v1,path-tracing,1792639340631244200,2,compacted,,,,,10479,next_token_usage_record.usage.input_tokens,,64699,1815
+Codex,terminal-ark-m3-codex-64k-1200-offline-v1,path-tracing-reverse,1792640586646769951,1,compacted,,,,,11683,next_token_usage_record.usage.input_tokens,,68117,3081
+Codex,terminal-ark-m3-codex-64k-1200-offline-v1,path-tracing-reverse,1792640586646769951,2,compacted,,,,,10161,next_token_usage_record.usage.input_tokens,,67809,1559
+Codex,terminal-ark-m3-codex-64k-1200-offline-v1,polyglot-rust-c,1792642574804553069,1,compacted,,,,,9456,next_token_usage_record.usage.input_tokens,,62025,828
+Codex,terminal-ark-m3-codex-64k-1200-offline-v1,protein-assembly,1792643866604890956,1,compacted,,,,,10468,next_token_usage_record.usage.input_tokens,,60203,1394
+Codex,terminal-ark-m3-codex-64k-1200-offline-v1,qemu-alpine-ssh,1792647240960769470,1,compacted,,,,,10143,next_token_usage_record.usage.input_tokens,,60928,1606
+Codex,terminal-ark-m3-codex-64k-1200-offline-v1,regex-chess,1792651373903039880,1,compacted,,,,,10337,next_token_usage_record.usage.input_tokens,,72413,5184
+Codex,terminal-ark-m3-codex-64k-1200-offline-v1,reshard-c4-data,1792653115196913643,1,compacted,,,,,10768,next_token_usage_record.usage.input_tokens,,61422,1996
+Codex,terminal-ark-m3-codex-64k-1200-offline-v1,schemelike-metacircular-eval,1792657042255485844,1,compacted,,,,,10439,next_token_usage_record.usage.input_tokens,,60380,1761
+Codex,terminal-ark-m3-codex-64k-1200-offline-v1,torch-tensor-parallelism,1792661523451925857,1,compacted,,,,,9696,next_token_usage_record.usage.input_tokens,,62708,940
+Codex,terminal-ark-m3-codex-64k-1200-offline-v1,video-processing,1792665466282503544,1,compacted,,,,,10252,next_token_usage_record.usage.input_tokens,,66919,1459
+Codex,terminal-ark-m3-codex-64k-1200-offline-v1,video-processing,1792665466282503544,2,compacted,,,,,10182,next_token_usage_record.usage.input_tokens,,60064,1389
+Codex,terminal-ark-m3-codex-64k-1200-offline-v1,winning-avg-corewars,1792666784039460625,1,compacted,,,,,10468,next_token_usage_record.usage.input_tokens,,60418,1707
+Codex,terminal-ark-m3-codex-64k-1200-offline-v1,write-compressor,1792668020431372495,1,compacted,,,,,9931,next_token_usage_record.usage.input_tokens,,64513,1362
+Codex,terminal-ark-m3-codex-64k-1200-offline-v1,write-compressor,1792668020431372495,2,compacted,,,,,10451,next_token_usage_record.usage.input_tokens,,64015,1882
+DSH,terminal-ark-m3-deepseek-64k-1200-offline-v2,circuit-fibsqrt,1792593657612218985,1,compaction/summary,,,,,43463,next_assistant.usage.inputTokens+cacheReadTokens+cacheWriteTokens,19379,28713,1811
+DSH,terminal-ark-m3-deepseek-64k-1200-offline-v2,circuit-fibsqrt,1792593657612218985,2,compaction/summary,,,,,31188,next_assistant.usage.inputTokens+cacheReadTokens+cacheWriteTokens,23641,42491,3057
+DSH,terminal-ark-m3-deepseek-64k-1200-offline-v2,crack-7z-hash,1792688806509280836,1,compaction/summary,,,,,29462,next_assistant.usage.inputTokens+cacheReadTokens+cacheWriteTokens,27467,43317,2151
+DSH,terminal-ark-m3-deepseek-64k-1200-offline-v2,dna-assembly,1792690232009590507,1,compaction/summary,,,,,40970,next_assistant.usage.inputTokens+cacheReadTokens+cacheWriteTokens,13497,32724,1955
+DSH,terminal-ark-m3-deepseek-64k-1200-offline-v2,dna-assembly,1792690232009590507,2,compaction/summary,,,,,29631,next_assistant.usage.inputTokens+cacheReadTokens+cacheWriteTokens,22616,43532,2812
+DSH,terminal-ark-m3-deepseek-64k-1200-offline-v2,dna-assembly,1792690232009590507,3,compaction/summary,,,,,30551,next_assistant.usage.inputTokens+cacheReadTokens+cacheWriteTokens,31023,43699,3430
+DSH,terminal-ark-m3-deepseek-64k-1200-offline-v2,feal-linear-cryptanalysis,1792693006603131581,1,compaction/summary,,,,,34137,next_assistant.usage.inputTokens+cacheReadTokens+cacheWriteTokens,21891,39744,3064
+DSH,terminal-ark-m3-deepseek-64k-1200-offline-v2,filter-js-from-html,1792693717685714951,1,compaction/summary,,,,,26876,next_assistant.usage.inputTokens+cacheReadTokens+cacheWriteTokens,38774,45978,2473
+DSH,terminal-ark-m3-deepseek-64k-1200-offline-v2,fix-ocaml-gc,1792695750286518749,1,compaction/summary,,,,,28536,next_assistant.usage.inputTokens+cacheReadTokens+cacheWriteTokens,32233,43658,1631
+DSH,terminal-ark-m3-deepseek-64k-1200-offline-v2,fix-ocaml-gc,1792695750286518749,2,compaction/summary,,,,,29162,next_assistant.usage.inputTokens+cacheReadTokens+cacheWriteTokens,30426,44395,3102
+DSH,terminal-ark-m3-deepseek-64k-1200-offline-v2,fix-ocaml-gc,1792695750286518749,3,compaction/summary,,,,,32795,next_assistant.usage.inputTokens+cacheReadTokens+cacheWriteTokens,27285,41386,3745
+DSH,terminal-ark-m3-deepseek-64k-1200-offline-v2,fix-ocaml-gc,1792695750286518749,4,compaction/summary,,,,,30877,next_assistant.usage.inputTokens+cacheReadTokens+cacheWriteTokens,28042,44082,4364
+DSH,terminal-ark-m3-deepseek-64k-1200-offline-v2,largest-eigenval,1792700988703830519,1,compaction/summary,,,,,31310,next_assistant.usage.inputTokens+cacheReadTokens+cacheWriteTokens,29549,41181,1748
+DSH,terminal-ark-m3-deepseek-64k-1200-offline-v2,make-doom-for-mips,1792702495490956918,1,compaction/summary,,,,,29671,next_assistant.usage.inputTokens+cacheReadTokens+cacheWriteTokens,28500,44360,3257
+DSH,terminal-ark-m3-deepseek-64k-1200-offline-v2,make-doom-for-mips,1792702495490956918,2,compaction/summary,,,,,29912,next_assistant.usage.inputTokens+cacheReadTokens+cacheWriteTokens,31078,44404,4023
+DSH,terminal-ark-m3-deepseek-64k-1200-offline-v2,make-doom-for-mips,1792702495490956918,3,compaction/summary,,,,,39076,next_assistant.usage.inputTokens+cacheReadTokens+cacheWriteTokens,24830,37042,4958
+DSH,terminal-ark-m3-deepseek-64k-1200-offline-v2,make-doom-for-mips,1792702495490956918,4,compaction/summary,,,,,34144,next_assistant.usage.inputTokens+cacheReadTokens+cacheWriteTokens,23328,42448,6227
+DSH,terminal-ark-m3-deepseek-64k-1200-offline-v2,make-doom-for-mips,1792702495490956918,5,compaction/summary,,,,,35426,next_assistant.usage.inputTokens+cacheReadTokens+cacheWriteTokens,25917,41153,6157
+DSH,terminal-ark-m3-deepseek-64k-1200-offline-v2,make-mips-interpreter,1792703765822851084,1,compaction/summary,,,,,32052,next_assistant.usage.inputTokens+cacheReadTokens+cacheWriteTokens,31072,42922,2484
+DSH,terminal-ark-m3-deepseek-64k-1200-offline-v2,make-mips-interpreter,1792703765822851084,2,compaction/summary,,,,,35349,next_assistant.usage.inputTokens+cacheReadTokens+cacheWriteTokens,25038,40666,4870
+DSH,terminal-ark-m3-deepseek-64k-1200-offline-v2,make-mips-interpreter,1792703765822851084,3,compaction/summary,,,,,35518,next_assistant.usage.inputTokens+cacheReadTokens+cacheWriteTokens,25934,40806,3503
+DSH,terminal-ark-m3-deepseek-64k-1200-offline-v2,make-mips-interpreter,1792703765822851084,4,compaction/summary,,,,,33616,next_assistant.usage.inputTokens+cacheReadTokens+cacheWriteTokens,22091,40707,3908
+DSH,terminal-ark-m3-deepseek-64k-1200-offline-v2,model-extraction-relu-logits,1792706563681222463,1,compaction/summary,,,,,29652,next_assistant.usage.inputTokens+cacheReadTokens+cacheWriteTokens,25124,43139,1836
+DSH,terminal-ark-m3-deepseek-64k-1200-offline-v2,password-recovery,1792710062359638794,1,compaction/summary,,,,,53505,next_assistant.usage.inputTokens+cacheReadTokens+cacheWriteTokens,29523,51047,2450
+DSH,terminal-ark-m3-deepseek-64k-1200-offline-v2,path-tracing,1792710565125843757,1,compaction/summary,,,,,37053,next_assistant.usage.inputTokens+cacheReadTokens+cacheWriteTokens,16818,36684,2108
+DSH,terminal-ark-m3-deepseek-64k-1200-offline-v2,path-tracing-reverse,1792711809722593912,1,compaction/summary,,,,,48693,next_assistant.usage.inputTokens+cacheReadTokens+cacheWriteTokens,11213,26174,2956
+DSH,terminal-ark-m3-deepseek-64k-1200-offline-v2,path-tracing-reverse,1792711809722593912,2,compaction/summary,,,,,48291,next_assistant.usage.inputTokens+cacheReadTokens+cacheWriteTokens,11265,27461,3100
+DSH,terminal-ark-m3-deepseek-64k-1200-offline-v2,path-tracing-reverse,1792711809722593912,3,compaction/summary,,,,,41476,next_assistant.usage.inputTokens+cacheReadTokens+cacheWriteTokens,14800,33009,3344
+DSH,terminal-ark-m3-deepseek-64k-1200-offline-v2,path-tracing-reverse,1792711809722593912,4,compaction/summary,,,,,38040,next_assistant.usage.inputTokens+cacheReadTokens+cacheWriteTokens,15828,36246,3966
+DSH,terminal-ark-m3-deepseek-64k-1200-offline-v2,path-tracing-reverse,1792711809722593912,5,compaction/summary,,,,,35879,next_assistant.usage.inputTokens+cacheReadTokens+cacheWriteTokens,19693,38412,3336
+DSH,terminal-ark-m3-deepseek-64k-1200-offline-v2,path-tracing-reverse,1792711809722593912,6,compaction/summary,,,,,38629,next_assistant.usage.inputTokens+cacheReadTokens+cacheWriteTokens,18697,36251,2968
+DSH,terminal-ark-m3-deepseek-64k-1200-offline-v2,path-tracing-reverse,1792711809722593912,7,compaction/summary,,,,,40249,next_assistant.usage.inputTokens+cacheReadTokens+cacheWriteTokens,16491,34599,3971
+DSH,terminal-ark-m3-deepseek-64k-1200-offline-v2,path-tracing-reverse,1792711809722593912,8,compaction/summary,,,,,36784,next_assistant.usage.inputTokens+cacheReadTokens+cacheWriteTokens,17781,37714,3321
+DSH,terminal-ark-m3-deepseek-64k-1200-offline-v2,schemelike-metacircular-eval,1792725976277301444,1,compaction/summary,,,,,29277,next_assistant.usage.inputTokens+cacheReadTokens+cacheWriteTokens,35887,44684,3501
+DSH,terminal-ark-m3-deepseek-64k-1200-offline-v2,schemelike-metacircular-eval,1792725976277301444,2,compaction/summary,,,,,29038,next_assistant.usage.inputTokens+cacheReadTokens+cacheWriteTokens,33262,46241,4803
+DSH,terminal-ark-m3-deepseek-64k-1200-offline-v2,video-processing,1792730799091567517,1,compaction/summary,,,,,33651,next_assistant.usage.inputTokens+cacheReadTokens+cacheWriteTokens,16927,40530,1941
+DSH,terminal-ark-m3-deepseek-64k-1200-offline-v2,video-processing,1792730799091567517,2,compaction/summary,,,,,28261,next_assistant.usage.inputTokens+cacheReadTokens+cacheWriteTokens,24747,45737,2083
+DSH,terminal-ark-m3-deepseek-64k-1200-offline-v2,write-compressor,1792732685368979380,1,compaction/summary,,,,,35987,next_assistant.usage.inputTokens+cacheReadTokens+cacheWriteTokens,27105,38759,2508
+DSH,terminal-ark-m3-deepseek-64k-1200-offline-v2,write-compressor,1792732685368979380,2,compaction/summary,,,,,36916,next_assistant.usage.inputTokens+cacheReadTokens+cacheWriteTokens,23417,39934,2946
+Pi,terminal-minimax-m3-pi-64k-1200-offline-v1,adaptive-rejection-sampler,1792984359556521719,1,compaction,64115,,tokensBefore,,29507,next_message.usage.input+cacheRead+cacheWrite,,36763,991
+Pi,terminal-minimax-m3-pi-64k-1200-offline-v1,adaptive-rejection-sampler,1792984359556521719,2,compaction,64029,,tokensBefore,,30762,next_message.usage.input+cacheRead+cacheWrite,,34058,1987
+Pi,terminal-minimax-m3-pi-64k-1200-offline-v1,build-cython-ext,1792986248752623276,1,compaction,64133,,tokensBefore,,27465,next_message.usage.input+cacheRead+cacheWrite,,27151,874
+Pi,terminal-minimax-m3-pi-64k-1200-offline-v1,build-pov-ray,1792987076665958477,1,compaction,64093,,tokensBefore,,30471,next_message.usage.input+cacheRead+cacheWrite,,27622,764
+Pi,terminal-minimax-m3-pi-64k-1200-offline-v1,cobol-modernization,1792991778792392238,1,compaction,65312,,tokensBefore,,27731,next_message.usage.input+cacheRead+cacheWrite,,36563,819
+Pi,terminal-minimax-m3-pi-64k-1200-offline-v1,cobol-modernization,1792991778792392238,2,compaction,64321,,tokensBefore,,33762,next_message.usage.input+cacheRead+cacheWrite,,28285,1693
+Pi,terminal-minimax-m3-pi-64k-1200-offline-v1,cobol-modernization,1792991778792392238,3,compaction,66643,,tokensBefore,,34458,next_message.usage.input+cacheRead+cacheWrite,,35169,2846
+Pi,terminal-minimax-m3-pi-64k-1200-offline-v1,cobol-modernization,1792991778792392238,4,compaction,64177,,tokensBefore,,29771,next_message.usage.input+cacheRead+cacheWrite,,37374,3576
+Pi,terminal-minimax-m3-pi-64k-1200-offline-v1,code-from-image,1792993007017520412,1,compaction,67134,,tokensBefore,,20072,next_message.usage.input+cacheRead+cacheWrite,,30322,469
+Pi,terminal-minimax-m3-pi-64k-1200-offline-v1,code-from-image,1793003204449116789,2,compaction,65024,,tokensBefore,,26635,next_message.usage.input+cacheRead+cacheWrite,,19014,479
+Pi,terminal-minimax-m3-pi-64k-1200-offline-v1,code-from-image,1793003204449116789,3,compaction,64285,,tokensBefore,,25934,next_message.usage.input+cacheRead+cacheWrite,,31753,2266
+Pi,terminal-minimax-m3-pi-64k-1200-offline-v1,code-from-image,1793003204449116789,4,compaction,70942,,tokensBefore,,30420,next_message.usage.input+cacheRead+cacheWrite,,26785,3480
+Pi,terminal-minimax-m3-pi-64k-1200-offline-v1,custom-memory-heap-crash,1793007244966220239,1,compaction,74118,,tokensBefore,,28081,next_message.usage.input+cacheRead+cacheWrite,,44507,771
+Pi,terminal-minimax-m3-pi-64k-1200-offline-v1,db-wal-recovery,1793007845147033950,1,compaction,65112,,tokensBefore,,29350,next_message.usage.input+cacheRead+cacheWrite,,22135,784
+Pi,terminal-minimax-m3-pi-64k-1200-offline-v1,db-wal-recovery,1793007845147033950,2,compaction,64384,,tokensBefore,,33574,next_message.usage.input+cacheRead+cacheWrite,,29946,1929
+Pi,terminal-minimax-m3-pi-64k-1200-offline-v1,db-wal-recovery,1793007845147033950,3,compaction,65554,,tokensBefore,,32384,next_message.usage.input+cacheRead+cacheWrite,,32698,3220
+Pi,terminal-minimax-m3-pi-64k-1200-offline-v1,db-wal-recovery,1793007845147033950,4,compaction,65670,,tokensBefore,,35394,next_message.usage.input+cacheRead+cacheWrite,,24927,4041
+Pi,terminal-minimax-m3-pi-64k-1200-offline-v1,db-wal-recovery,1793007845147033950,5,compaction,64864,,tokensBefore,,33274,next_message.usage.input+cacheRead+cacheWrite,,24909,4737
+Pi,terminal-minimax-m3-pi-64k-1200-offline-v1,dna-insert,1793010530028976879,1,compaction,74635,,tokensBefore,,23113,next_message.usage.input+cacheRead+cacheWrite,,36761,896
+Pi,terminal-minimax-m3-pi-64k-1200-offline-v1,fix-ocaml-gc,1793034133831763669,1,compaction,64323,,tokensBefore,,28883,next_message.usage.input+cacheRead+cacheWrite,,17602,701
+Pi,terminal-minimax-m3-pi-64k-1200-offline-v1,gcode-to-text,1793036013334517290,1,compaction,74729,,tokensBefore,,16470,next_message.usage.input+cacheRead+cacheWrite,,23449,517
+Pi,terminal-minimax-m3-pi-64k-1200-offline-v1,gcode-to-text,1793036013334517290,2,compaction,67443,,tokensBefore,,10466,next_message.usage.input+cacheRead+cacheWrite,,21632,1375
+Pi,terminal-minimax-m3-pi-64k-1200-offline-v1,gcode-to-text,1793036013334517290,3,compaction,64012,,tokensBefore,,17961,next_message.usage.input+cacheRead+cacheWrite,,16654,1986
+Pi,terminal-minimax-m3-pi-64k-1200-offline-v1,gcode-to-text,1793036013334517290,4,compaction,66126,,tokensBefore,,17451,next_message.usage.input+cacheRead+cacheWrite,,33919,2945
+Pi,terminal-minimax-m3-pi-64k-1200-offline-v1,gcode-to-text,1793036013334517290,5,compaction,66423,,tokensBefore,,18215,next_message.usage.input+cacheRead+cacheWrite,,29661,4719
+Pi,terminal-minimax-m3-pi-64k-1200-offline-v1,install-windows-3.11,1793039680897709360,1,compaction,71728,,tokensBefore,,16800,next_message.usage.input+cacheRead+cacheWrite,,42884,1176
+Pi,terminal-minimax-m3-pi-64k-1200-offline-v1,install-windows-3.11,1793039680897709360,2,compaction,64323,,tokensBefore,,28856,next_message.usage.input+cacheRead+cacheWrite,,22588,2944
+Pi,terminal-minimax-m3-pi-64k-1200-offline-v1,install-windows-3.11,1793039680897709360,3,compaction,64292,,tokensBefore,,19644,next_message.usage.input+cacheRead+cacheWrite,,23829,3628
+Pi,terminal-minimax-m3-pi-64k-1200-offline-v1,install-windows-3.11,1793039680897709360,4,compaction,70408,,tokensBefore,,24700,next_message.usage.input+cacheRead+cacheWrite,,26221,4515
+Pi,terminal-minimax-m3-pi-64k-1200-offline-v1,largest-eigenval,1793041461412013642,1,compaction,67482,,tokensBefore,,17936,next_message.usage.input+cacheRead+cacheWrite,,37923,1079
+Pi,terminal-minimax-m3-pi-64k-1200-offline-v1,largest-eigenval,1793041461412013642,2,compaction,64773,,tokensBefore,,32385,next_message.usage.input+cacheRead+cacheWrite,,18182,2279
+Pi,terminal-minimax-m3-pi-64k-1200-offline-v1,largest-eigenval,1793041461412013642,3,compaction,69396,,tokensBefore,,32358,next_message.usage.input+cacheRead+cacheWrite,,38801,3482
+Pi,terminal-minimax-m3-pi-64k-1200-offline-v1,largest-eigenval,1793041461412013642,4,compaction,64566,,tokensBefore,,34765,next_message.usage.input+cacheRead+cacheWrite,,30027,4412
+Pi,terminal-minimax-m3-pi-64k-1200-offline-v1,make-doom-for-mips,1793045361470769050,1,compaction,64111,,tokensBefore,,34353,next_message.usage.input+cacheRead+cacheWrite,,17616,885
+Pi,terminal-minimax-m3-pi-64k-1200-offline-v1,make-doom-for-mips,1793045361470769050,2,compaction,64490,,tokensBefore,,31059,next_message.usage.input+cacheRead+cacheWrite,,34754,2745
+Pi,terminal-minimax-m3-pi-64k-1200-offline-v1,password-recovery,1793051635570103912,1,compaction,64092,,tokensBefore,,21272,next_message.usage.input+cacheRead+cacheWrite,,13538,733
+Pi,terminal-minimax-m3-pi-64k-1200-offline-v1,path-tracing-reverse,1793053098257029206,1,compaction,64504,,tokensBefore,,42528,next_message.usage.input+cacheRead+cacheWrite,,8616,929
+Pi,terminal-minimax-m3-pi-64k-1200-offline-v1,path-tracing-reverse,1793053098257029206,2,compaction,69959,,tokensBefore,,41211,next_message.usage.input+cacheRead+cacheWrite,,11772,2283
+Pi,terminal-minimax-m3-pi-64k-1200-offline-v1,path-tracing-reverse,1793053098257029206,3,compaction,69666,,tokensBefore,,0,next_message.usage.input+cacheRead+cacheWrite,,22252,3088
+Pi,terminal-minimax-m3-pi-64k-1200-offline-v1,path-tracing-reverse,1793053098257029206,4,compaction,64017,,tokensBefore,,48684,next_message.usage.input+cacheRead+cacheWrite,,14571,4388
+Pi,terminal-minimax-m3-pi-64k-1200-offline-v1,path-tracing-reverse,1793053098257029206,5,compaction,65977,,tokensBefore,,45912,next_message.usage.input+cacheRead+cacheWrite,,27229,5274
+Pi,terminal-minimax-m3-pi-64k-1200-offline-v1,path-tracing-reverse,1793053098257029206,6,compaction,67776,,tokensBefore,,42807,next_message.usage.input+cacheRead+cacheWrite,,23339,6340
+Pi,terminal-minimax-m3-pi-64k-1200-offline-v1,path-tracing-reverse,1793053098257029206,7,compaction,65730,,tokensBefore,,43733,next_message.usage.input+cacheRead+cacheWrite,,21471,6920
+Pi,terminal-minimax-m3-pi-64k-1200-offline-v1,path-tracing-reverse,1793053098257029206,8,compaction,67148,,tokensBefore,,48708,next_message.usage.input+cacheRead+cacheWrite,,23656,7746
+Pi,terminal-minimax-m3-pi-64k-1200-offline-v1,path-tracing-reverse,1793053098257029206,9,compaction,65791,,tokensBefore,,44894,next_message.usage.input+cacheRead+cacheWrite,,27584,8501
+Pi,terminal-minimax-m3-pi-64k-1200-offline-v1,path-tracing-reverse,1793053098257029206,10,compaction,64845,,tokensBefore,,45392,next_message.usage.input+cacheRead+cacheWrite,,23116,9754
+ZCode,terminal-minimax-m3-zcode-64k-1200-offline-v1,build-pmars,1792731555710982906,1,compact_boundary,61518,11557,payload.preCompactTokenCount,payload.truePostCompactTokenCount,,,,,
+ZCode,terminal-minimax-m3-zcode-64k-1200-offline-v1,circuit-fibsqrt,1792734495318139995,1,compact_boundary,58503,14851,payload.preCompactTokenCount,payload.truePostCompactTokenCount,,,,,
+ZCode,terminal-minimax-m3-zcode-64k-1200-offline-v1,cobol-modernization,1792735756796347541,1,compact_boundary,63592,12456,payload.preCompactTokenCount,payload.truePostCompactTokenCount,,,,,
+ZCode,terminal-minimax-m3-zcode-64k-1200-offline-v1,dna-assembly,1792742415191664546,1,compact_boundary,58073,15071,payload.preCompactTokenCount,payload.truePostCompactTokenCount,,,,,
+ZCode,terminal-minimax-m3-zcode-64k-1200-offline-v1,feal-differential-cryptanalysis,1792745532231758638,1,compact_boundary,59077,28401,payload.preCompactTokenCount,payload.truePostCompactTokenCount,,,,,
+ZCode,terminal-minimax-m3-zcode-64k-1200-offline-v1,filter-js-from-html,1792747426685792889,1,compact_boundary,73776,16159,payload.preCompactTokenCount,payload.truePostCompactTokenCount,,,,,
+ZCode,terminal-minimax-m3-zcode-64k-1200-offline-v1,gcode-to-text,1792751404365327143,1,compact_boundary,70384,7448,payload.preCompactTokenCount,payload.truePostCompactTokenCount,,,,,
+ZCode,terminal-minimax-m3-zcode-64k-1200-offline-v1,gpt2-codegolf,1792752993738291488,1,compact_boundary,54444,8993,payload.preCompactTokenCount,payload.truePostCompactTokenCount,,,,,
+ZCode,terminal-minimax-m3-zcode-64k-1200-offline-v1,install-windows-3.11,1792985603413555050,1,compact_boundary,57817,10327,payload.preCompactTokenCount,payload.truePostCompactTokenCount,,,,,
+ZCode,terminal-minimax-m3-zcode-64k-1200-offline-v1,large-scale-text-editing,1792987028186356280,1,compact_boundary,62885,9299,payload.preCompactTokenCount,payload.truePostCompactTokenCount,,,,,
+ZCode,terminal-minimax-m3-zcode-64k-1200-offline-v1,largest-eigenval,1792988289779851686,1,compact_boundary,104896,19178,payload.preCompactTokenCount,payload.truePostCompactTokenCount,,,,,
+ZCode,terminal-minimax-m3-zcode-64k-1200-offline-v1,largest-eigenval,1792988289779851686,2,compact_boundary,59278,13137,payload.preCompactTokenCount,payload.truePostCompactTokenCount,,,,,
+ZCode,terminal-minimax-m3-zcode-64k-1200-offline-v1,llm-inference-batching-scheduler,1792989546387058533,1,compact_boundary,79698,39739,payload.preCompactTokenCount,payload.truePostCompactTokenCount,,,,,
+ZCode,terminal-minimax-m3-zcode-64k-1200-offline-v1,llm-inference-batching-scheduler,1792989546387058533,2,compact_boundary,64675,16417,payload.preCompactTokenCount,payload.truePostCompactTokenCount,,,,,
+ZCode,terminal-minimax-m3-zcode-64k-1200-offline-v1,llm-inference-batching-scheduler,1792989546387058533,3,compact_boundary,61968,18002,payload.preCompactTokenCount,payload.truePostCompactTokenCount,,,,,
+ZCode,terminal-minimax-m3-zcode-64k-1200-offline-v1,mailman,1792990928731271169,1,compact_boundary,80148,24995,payload.preCompactTokenCount,payload.truePostCompactTokenCount,,,,,
+ZCode,terminal-minimax-m3-zcode-64k-1200-offline-v1,mailman,1792990928731271169,2,compact_boundary,74467,14163,payload.preCompactTokenCount,payload.truePostCompactTokenCount,,,,,
+ZCode,terminal-minimax-m3-zcode-64k-1200-offline-v1,mailman,1792990928731271169,3,compact_boundary,67238,17992,payload.preCompactTokenCount,payload.truePostCompactTokenCount,,,,,
+ZCode,terminal-minimax-m3-zcode-64k-1200-offline-v1,make-doom-for-mips,1792992216490431166,1,compact_boundary,62847,17822,payload.preCompactTokenCount,payload.truePostCompactTokenCount,,,,,
+ZCode,terminal-minimax-m3-zcode-64k-1200-offline-v1,make-doom-for-mips,1792992216490431166,2,compact_boundary,65482,19070,payload.preCompactTokenCount,payload.truePostCompactTokenCount,,,,,
+ZCode,terminal-minimax-m3-zcode-64k-1200-offline-v1,make-doom-for-mips,1792992216490431166,3,compact_boundary,67262,18747,payload.preCompactTokenCount,payload.truePostCompactTokenCount,,,,,
+ZCode,terminal-minimax-m3-zcode-64k-1200-offline-v1,make-doom-for-mips,1792992216490431166,4,compact_boundary,78061,30924,payload.preCompactTokenCount,payload.truePostCompactTokenCount,,,,,
+ZCode,terminal-minimax-m3-zcode-64k-1200-offline-v1,make-doom-for-mips,1792992216490431166,5,compact_boundary,63806,14204,payload.preCompactTokenCount,payload.truePostCompactTokenCount,,,,,
+ZCode,terminal-minimax-m3-zcode-64k-1200-offline-v1,make-mips-interpreter,1793003199693291837,1,compact_boundary,52115,10951,payload.preCompactTokenCount,payload.truePostCompactTokenCount,,,,,
+ZCode,terminal-minimax-m3-zcode-64k-1200-offline-v1,make-mips-interpreter,1793003199693291837,2,compact_boundary,51770,10980,payload.preCompactTokenCount,payload.truePostCompactTokenCount,,,,,
+ZCode,terminal-minimax-m3-zcode-64k-1200-offline-v1,make-mips-interpreter,1793003199693291837,3,compact_boundary,52304,16056,payload.preCompactTokenCount,payload.truePostCompactTokenCount,,,,,
+ZCode,terminal-minimax-m3-zcode-64k-1200-offline-v1,merge-diff-arc-agi-task,1793005753766438173,1,compact_boundary,66616,12314,payload.preCompactTokenCount,payload.truePostCompactTokenCount,,,,,
+ZCode,terminal-minimax-m3-zcode-64k-1200-offline-v1,password-recovery,1793010802012543608,1,compact_boundary,55461,7170,payload.preCompactTokenCount,payload.truePostCompactTokenCount,,,,,
+ZCode,terminal-minimax-m3-zcode-64k-1200-offline-v1,path-tracing,1793011606377162115,1,compact_boundary,46714,11627,payload.preCompactTokenCount,payload.truePostCompactTokenCount,,,,,
+ZCode,terminal-minimax-m3-zcode-64k-1200-offline-v1,path-tracing,1793011606377162115,2,compact_boundary,47397,7250,payload.preCompactTokenCount,payload.truePostCompactTokenCount,,,,,
+ZCode,terminal-minimax-m3-zcode-64k-1200-offline-v1,path-tracing-reverse,1793012129061483365,1,compact_boundary,50966,19172,payload.preCompactTokenCount,payload.truePostCompactTokenCount,,,,,
+ZCode,terminal-minimax-m3-zcode-64k-1200-offline-v1,path-tracing-reverse,1793012129061483365,2,compact_boundary,50482,12157,payload.preCompactTokenCount,payload.truePostCompactTokenCount,,,,,
+ZCode,terminal-minimax-m3-zcode-64k-1200-offline-v1,pytorch-model-recovery,1793067264481626153,1,compact_boundary,69498,8955,payload.preCompactTokenCount,payload.truePostCompactTokenCount,,,,,
+ZCode,terminal-minimax-m3-zcode-64k-1200-offline-v1,query-optimize,1793069884691742178,1,compact_boundary,71759,16244,payload.preCompactTokenCount,payload.truePostCompactTokenCount,,,,,
+ZCode,terminal-minimax-m3-zcode-64k-1200-offline-v1,raman-fitting,1793071759623635779,1,compact_boundary,56970,9030,payload.preCompactTokenCount,payload.truePostCompactTokenCount,,,,,
+ZCode,terminal-minimax-m3-zcode-64k-1200-offline-v1,raman-fitting,1793071759623635779,2,compact_boundary,55331,8922,payload.preCompactTokenCount,payload.truePostCompactTokenCount,,,,,
+ZCode,terminal-minimax-m3-zcode-64k-1200-offline-v1,reshard-c4-data,1793074914567914226,1,compact_boundary,70645,9383,payload.preCompactTokenCount,payload.truePostCompactTokenCount,,,,,
+ZCode,terminal-minimax-m3-zcode-64k-1200-offline-v1,schemelike-metacircular-eval,1793080145533835794,1,compact_boundary,103159,47887,payload.preCompactTokenCount,payload.truePostCompactTokenCount,,,,,
+ZCode,terminal-minimax-m3-zcode-64k-1200-offline-v1,torch-tensor-parallelism,1793084837747345783,1,compact_boundary,80218,11230,payload.preCompactTokenCount,payload.truePostCompactTokenCount,,,,,
+ZCode,terminal-minimax-m3-zcode-64k-1200-offline-v1,video-processing,1793089526450736953,1,compact_boundary,49341,11939,payload.preCompactTokenCount,payload.truePostCompactTokenCount,,,,,
+ZCode,terminal-minimax-m3-zcode-64k-1200-offline-v1,winning-avg-corewars,1793091233090719400,1,compact_boundary,78100,27015,payload.preCompactTokenCount,payload.truePostCompactTokenCount,,,,,

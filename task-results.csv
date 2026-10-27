@@ -1,0 +1,446 @@
+benchmark,model,harness,run_id,task_id,status,label,success,in_five_harness_scored_intersection,compression_threshold_tokens,compaction_events,compression_before_tokens,compression_after_tokens,compaction_pairs_available,total_input_tokens,total_output_tokens,total_tokens,uncached_input_tokens,cache_read_input_tokens,cache_creation_input_tokens,model_requests,accounting_complete,usage_missing_requests,unfinished_requests,incomplete_streams_with_usage
+terminal-bench-2.0,MiniMax-M3,Claude Code,terminal-m3-64k-1200-offline-v3,adaptive-rejection-sampler,completed,incorrect,0,True,64000,2,"[64393, 64017]","[10304, 3825]",2,2168998,84033,2253031,152052,2016946,0,53,True,0,0,0
+terminal-bench-2.0,MiniMax-M3,Claude Code,terminal-m3-64k-1200-offline-v3,bn-fit-modify,completed,correct,1,True,64000,0,[],[],0,364001,6621,370622,26157,337844,0,19,True,0,0,0
+terminal-bench-2.0,MiniMax-M3,Claude Code,terminal-m3-64k-1200-offline-v3,break-filter-js-from-html,completed,correct,1,True,64000,0,[],[],0,374975,14258,389233,31154,343821,0,14,True,0,0,0
+terminal-bench-2.0,MiniMax-M3,Claude Code,terminal-m3-64k-1200-offline-v3,build-cython-ext,completed,incorrect,0,True,64000,1,[64482],[6791],1,2754522,28581,2783103,89487,2665035,0,70,True,0,0,0
+terminal-bench-2.0,MiniMax-M3,Claude Code,terminal-m3-64k-1200-offline-v3,build-pmars,completed,incorrect,0,True,64000,0,[],[],0,1056673,15041,1071714,45691,1010982,0,35,True,0,0,0
+terminal-bench-2.0,MiniMax-M3,Claude Code,terminal-m3-64k-1200-offline-v3,build-pov-ray,completed,incorrect,0,True,64000,0,[],[],0,1674714,9458,1684172,48453,1626261,0,53,True,0,0,0
+terminal-bench-2.0,MiniMax-M3,Claude Code,terminal-m3-64k-1200-offline-v3,caffe-cifar-10,completed,incorrect,0,True,64000,0,[],[],0,755265,6960,762225,34375,720890,0,30,True,0,0,0
+terminal-bench-2.0,MiniMax-M3,Claude Code,terminal-m3-64k-1200-offline-v3,cancel-async-tasks,completed,correct,1,True,64000,0,[],[],0,266204,7972,274176,23004,243200,0,13,True,0,0,0
+terminal-bench-2.0,MiniMax-M3,Claude Code,terminal-m3-64k-1200-offline-v3,chess-best-move,completed,incorrect,0,True,64000,0,[],[],0,670607,11601,682208,32480,638127,0,28,True,0,0,0
+terminal-bench-2.0,MiniMax-M3,Claude Code,terminal-m3-64k-1200-offline-v3,circuit-fibsqrt,completed,incorrect,0,True,64000,0,[],[],0,89376,128103,217479,18515,70861,0,5,True,0,0,0
+terminal-bench-2.0,MiniMax-M3,Claude Code,terminal-m3-64k-1200-offline-v3,cobol-modernization,completed,correct,1,True,64000,1,[67611],[11252],1,943981,53844,997825,96025,847956,0,30,True,0,0,0
+terminal-bench-2.0,MiniMax-M3,Claude Code,terminal-m3-64k-1200-offline-v3,code-from-image,completed,correct,1,True,64000,0,[],[],0,81465,687,82152,16741,64724,0,5,True,0,0,0
+terminal-bench-2.0,MiniMax-M3,Claude Code,terminal-m3-64k-1200-offline-v3,compile-compcert,skipped_agent_killed,unscored,,False,64000,0,[],[],0,193622,2286,195908,19994,173628,0,11,True,0,0,0
+terminal-bench-2.0,MiniMax-M3,Claude Code,terminal-m3-64k-1200-offline-v3,configure-git-webserver,completed,incorrect,0,True,64000,0,[],[],0,586250,14388,600638,31374,554876,0,24,True,0,0,0
+terminal-bench-2.0,MiniMax-M3,Claude Code,terminal-m3-64k-1200-offline-v3,constraints-scheduling,completed,correct,1,True,64000,0,[],[],0,123714,7583,131297,25410,98304,0,6,True,0,0,0
+terminal-bench-2.0,MiniMax-M3,Claude Code,terminal-m3-64k-1200-offline-v3,count-dataset-tokens,completed,incorrect,0,True,64000,0,[],[],0,308356,4079,312435,24041,284315,0,16,True,0,0,0
+terminal-bench-2.0,MiniMax-M3,Claude Code,terminal-m3-64k-1200-offline-v3,crack-7z-hash,completed,incorrect,0,True,64000,0,[],[],0,1619387,10596,1629983,39288,1580099,0,60,True,0,0,0
+terminal-bench-2.0,MiniMax-M3,Claude Code,terminal-m3-64k-1200-offline-v3,custom-memory-heap-crash,completed,incorrect,0,True,64000,2,"[64171, 64499]","[5587, 6235]",2,5070974,60432,5131406,183184,4887790,0,123,True,0,0,0
+terminal-bench-2.0,MiniMax-M3,Claude Code,terminal-m3-64k-1200-offline-v3,db-wal-recovery,completed,correct,1,True,64000,0,[],[],0,657296,19257,676553,39111,618185,0,24,True,0,0,0
+terminal-bench-2.0,MiniMax-M3,Claude Code,terminal-m3-64k-1200-offline-v3,distribution-search,completed,correct,1,True,64000,0,[],[],0,172843,14768,187611,30079,142764,0,7,True,0,0,0
+terminal-bench-2.0,MiniMax-M3,Claude Code,terminal-m3-64k-1200-offline-v3,dna-assembly,completed,incorrect,0,True,64000,2,"[79829, 72154]","[30137, 14641]",2,1255097,111552,1366649,165233,1089864,0,33,True,0,0,0
+terminal-bench-2.0,MiniMax-M3,Claude Code,terminal-m3-64k-1200-offline-v3,dna-insert,completed,incorrect,0,True,64000,0,[],[],0,585997,27086,613083,50129,535868,0,18,True,0,0,0
+terminal-bench-2.0,MiniMax-M3,Claude Code,terminal-m3-64k-1200-offline-v3,extract-elf,completed,incorrect,0,True,64000,0,[],[],0,434561,19535,454096,41531,393030,0,14,True,0,0,0
+terminal-bench-2.0,MiniMax-M3,Claude Code,terminal-m3-64k-1200-offline-v3,extract-moves-from-video,completed,incorrect,0,True,64000,0,[],[],0,1558687,26656,1585343,56922,1501765,0,46,True,0,0,0
+terminal-bench-2.0,MiniMax-M3,Claude Code,terminal-m3-64k-1200-offline-v3,feal-differential-cryptanalysis,completed,correct,1,True,64000,1,[64019],[5402],1,708151,50271,758422,83906,624245,0,15,True,0,0,0
+terminal-bench-2.0,MiniMax-M3,Claude Code,terminal-m3-64k-1200-offline-v3,feal-linear-cryptanalysis,completed,correct,1,True,64000,1,[69324],[13827],1,888351,57173,945524,100155,788196,0,25,True,0,0,0
+terminal-bench-2.0,MiniMax-M3,Claude Code,terminal-m3-64k-1200-offline-v3,filter-js-from-html,completed,incorrect,0,True,64000,3,"[64181, 64158, 63618]","[12769, 10081, 8733]",3,4054360,121555,4175915,188513,3865847,0,94,True,0,0,0
+terminal-bench-2.0,MiniMax-M3,Claude Code,terminal-m3-64k-1200-offline-v3,financial-document-processor,completed,correct,1,True,64000,1,[67085],[6049],1,760772,12226,772998,97850,662922,0,21,True,0,0,0
+terminal-bench-2.0,MiniMax-M3,Claude Code,terminal-m3-64k-1200-offline-v3,fix-code-vulnerability,completed,correct,1,True,64000,0,[],[],0,320865,5915,326780,22369,298496,0,15,True,0,0,0
+terminal-bench-2.0,MiniMax-M3,Claude Code,terminal-m3-64k-1200-offline-v3,fix-git,completed,correct,1,True,64000,0,[],[],0,336219,6845,343064,23643,312576,0,14,True,0,0,0
+terminal-bench-2.0,MiniMax-M3,Claude Code,terminal-m3-64k-1200-offline-v3,fix-ocaml-gc,completed,incorrect,0,True,64000,1,[63910],[6074],1,3066152,34228,3100380,104394,2961758,0,81,True,0,0,0
+terminal-bench-2.0,MiniMax-M3,Claude Code,terminal-m3-64k-1200-offline-v3,gcode-to-text,completed,correct,1,True,64000,1,[64514],[9243],1,1056743,25919,1082662,71862,984881,0,30,True,0,0,0
+terminal-bench-2.0,MiniMax-M3,Claude Code,terminal-m3-64k-1200-offline-v3,git-leak-recovery,completed,correct,1,True,64000,0,[],[],0,226583,8609,235192,28191,198392,0,11,True,0,0,0
+terminal-bench-2.0,MiniMax-M3,Claude Code,terminal-m3-64k-1200-offline-v3,git-multibranch,completed,correct,1,True,64000,0,[],[],0,1480377,21105,1501482,25913,1454464,0,49,True,0,0,0
+terminal-bench-2.0,MiniMax-M3,Claude Code,terminal-m3-64k-1200-offline-v3,gpt2-codegolf,completed,incorrect,0,True,64000,4,"[67407, 69905, 65998, 66873]","[6574, 8724, 6969, 9716]",4,2818529,197800,3016329,298647,2519882,0,67,True,0,0,0
+terminal-bench-2.0,MiniMax-M3,Claude Code,terminal-m3-64k-1200-offline-v3,headless-terminal,completed,incorrect,0,True,64000,2,"[64402, 65264]","[9567, 6363]",2,4464024,99062,4563086,125031,4338993,0,103,True,0,0,0
+terminal-bench-2.0,MiniMax-M3,Claude Code,terminal-m3-64k-1200-offline-v3,hf-model-inference,completed,correct,1,True,64000,0,[],[],0,662327,13810,676137,64096,598231,0,30,False,4,0,0
+terminal-bench-2.0,MiniMax-M3,Claude Code,terminal-m3-64k-1200-offline-v3,install-windows-3.11,completed,incorrect,0,True,64000,0,[],[],0,1165665,21173,1186838,49924,1115741,0,38,True,0,0,0
+terminal-bench-2.0,MiniMax-M3,Claude Code,terminal-m3-64k-1200-offline-v3,kv-store-grpc,completed,incorrect,0,True,64000,0,[],[],0,217927,4173,222100,20679,197248,0,12,True,0,0,0
+terminal-bench-2.0,MiniMax-M3,Claude Code,terminal-m3-64k-1200-offline-v3,large-scale-text-editing,completed,correct,1,True,64000,0,[],[],0,1397667,27474,1425141,48625,1349042,0,38,True,0,0,0
+terminal-bench-2.0,MiniMax-M3,Claude Code,terminal-m3-64k-1200-offline-v3,largest-eigenval,completed,correct,1,True,64000,3,"[91248, 79100, 64500]","[6939, 20700, 11296]",3,3707180,147345,3854525,219450,3487730,0,91,True,0,0,0
+terminal-bench-2.0,MiniMax-M3,Claude Code,terminal-m3-64k-1200-offline-v3,llm-inference-batching-scheduler,completed,incorrect,0,True,64000,3,"[71245, 65644, 64773]","[16082, 15025, 12501]",3,2240600,123841,2364441,207056,2033544,0,47,True,0,0,0
+terminal-bench-2.0,MiniMax-M3,Claude Code,terminal-m3-64k-1200-offline-v3,log-summary-date-ranges,completed,correct,1,True,64000,0,[],[],0,192313,3485,195798,42344,149969,0,10,True,0,0,0
+terminal-bench-2.0,MiniMax-M3,Claude Code,terminal-m3-64k-1200-offline-v3,mailman,completed,correct,1,True,64000,2,"[70202, 64024]","[22533, 12253]",2,3457851,70719,3528570,155302,3302549,0,77,True,0,0,0
+terminal-bench-2.0,MiniMax-M3,Claude Code,terminal-m3-64k-1200-offline-v3,make-doom-for-mips,completed,incorrect,0,True,64000,7,"[67049, 66247, 76683, 63575, 80340, 64556, 65271]","[10509, 10958, 20119, 24418, 22232, 11105, 9918]",7,6132813,190042,6322855,505529,5627284,0,137,True,0,0,0
+terminal-bench-2.0,MiniMax-M3,Claude Code,terminal-m3-64k-1200-offline-v3,make-mips-interpreter,completed,incorrect,0,True,64000,5,"[64055, 77827, 73267, 78844, 64149]","[7151, 16519, 16832, 16964, 8067]",5,5031646,181301,5212947,339436,4692210,0,117,True,0,0,0
+terminal-bench-2.0,MiniMax-M3,Claude Code,terminal-m3-64k-1200-offline-v3,mcmc-sampling-stan,completed,correct,1,True,64000,0,[],[],0,403721,13416,417137,30942,372779,0,18,True,0,0,0
+terminal-bench-2.0,MiniMax-M3,Claude Code,terminal-m3-64k-1200-offline-v3,merge-diff-arc-agi-task,completed,correct,1,True,64000,0,[],[],0,538327,16581,554908,36672,501655,0,21,True,0,0,0
+terminal-bench-2.0,MiniMax-M3,Claude Code,terminal-m3-64k-1200-offline-v3,model-extraction-relu-logits,completed,correct,1,True,64000,3,"[65024, 68301, 64330]","[8799, 13571, 8383]",3,3291219,123998,3415217,215113,3076106,0,75,True,0,0,0
+terminal-bench-2.0,MiniMax-M3,Claude Code,terminal-m3-64k-1200-offline-v3,modernize-scientific-stack,completed,correct,1,True,64000,0,[],[],0,150085,3351,153436,23738,126347,0,8,True,0,0,0
+terminal-bench-2.0,MiniMax-M3,Claude Code,terminal-m3-64k-1200-offline-v3,mteb-leaderboard,completed,correct,1,True,64000,0,[],[],0,213438,7075,220513,52946,160492,0,14,True,0,0,0
+terminal-bench-2.0,MiniMax-M3,Claude Code,terminal-m3-64k-1200-offline-v3,mteb-retrieve,completed,correct,1,True,64000,0,[],[],0,385145,5432,390577,25346,359799,0,19,True,0,0,0
+terminal-bench-2.0,MiniMax-M3,Claude Code,terminal-m3-64k-1200-offline-v3,multi-source-data-merger,completed,correct,1,True,64000,0,[],[],0,153497,11541,165038,27371,126126,0,7,True,0,0,0
+terminal-bench-2.0,MiniMax-M3,Claude Code,terminal-m3-64k-1200-offline-v3,nginx-request-logging,completed,correct,1,True,64000,0,[],[],0,233438,7389,240827,23621,209817,0,12,True,0,0,0
+terminal-bench-2.0,MiniMax-M3,Claude Code,terminal-m3-64k-1200-offline-v3,openssl-selfsigned-cert,completed,correct,1,True,64000,0,[],[],0,239723,5093,244816,21451,218272,0,13,True,0,0,0
+terminal-bench-2.0,MiniMax-M3,Claude Code,terminal-m3-64k-1200-offline-v3,overfull-hbox,completed,incorrect,0,True,64000,0,[],[],0,1594425,26497,1620922,49168,1545257,0,41,True,0,0,0
+terminal-bench-2.0,MiniMax-M3,Claude Code,terminal-m3-64k-1200-offline-v3,password-recovery,completed,correct,1,True,64000,0,[],[],0,448884,11381,460265,28404,420480,0,17,True,0,0,0
+terminal-bench-2.0,MiniMax-M3,Claude Code,terminal-m3-64k-1200-offline-v3,path-tracing,completed,correct,1,True,64000,1,[64181],[8892],1,1175219,34682,1209901,109499,1065720,0,35,True,0,0,0
+terminal-bench-2.0,MiniMax-M3,Claude Code,terminal-m3-64k-1200-offline-v3,path-tracing-reverse,completed,incorrect,0,True,64000,5,"[68893, 82369, 64529, 66549, 67724]","[7454, 17949, 7089, 6726, 8530]",5,2815078,195505,3010583,349688,2465390,0,66,True,0,0,0
+terminal-bench-2.0,MiniMax-M3,Claude Code,terminal-m3-64k-1200-offline-v3,polyglot-c-py,completed,incorrect,0,True,64000,0,[],[],0,848148,21786,869934,48594,799554,0,37,True,0,0,0
+terminal-bench-2.0,MiniMax-M3,Claude Code,terminal-m3-64k-1200-offline-v3,polyglot-rust-c,completed,incorrect,0,True,64000,0,[],[],0,793880,59273,853153,48872,745008,0,24,True,0,0,0
+terminal-bench-2.0,MiniMax-M3,Claude Code,terminal-m3-64k-1200-offline-v3,portfolio-optimization,completed,incorrect,0,True,64000,1,[67544],[15862],1,1853658,62672,1916330,113244,1740414,0,43,True,0,0,0
+terminal-bench-2.0,MiniMax-M3,Claude Code,terminal-m3-64k-1200-offline-v3,protein-assembly,completed,incorrect,0,True,64000,0,[],[],0,1091425,34591,1126016,45479,1045946,0,29,True,0,0,0
+terminal-bench-2.0,MiniMax-M3,Claude Code,terminal-m3-64k-1200-offline-v3,prove-plus-comm,completed,correct,1,True,64000,0,[],[],0,96059,1578,97637,15931,80128,0,6,True,0,0,0
+terminal-bench-2.0,MiniMax-M3,Claude Code,terminal-m3-64k-1200-offline-v3,pypi-server,completed,incorrect,0,True,64000,0,[],[],0,419513,11614,431127,30419,389094,0,18,True,0,0,0
+terminal-bench-2.0,MiniMax-M3,Claude Code,terminal-m3-64k-1200-offline-v3,pytorch-model-cli,completed,incorrect,0,True,64000,0,[],[],0,2222959,43354,2266313,89566,2133393,0,79,True,0,0,0
+terminal-bench-2.0,MiniMax-M3,Claude Code,terminal-m3-64k-1200-offline-v3,pytorch-model-recovery,completed,correct,1,True,64000,0,[],[],0,709103,14967,724070,35405,673698,0,25,True,0,0,0
+terminal-bench-2.0,MiniMax-M3,Claude Code,terminal-m3-64k-1200-offline-v3,qemu-alpine-ssh,completed,correct,1,False,64000,0,[],[],0,1502938,25221,1528159,51761,1451177,0,43,True,0,0,0
+terminal-bench-2.0,MiniMax-M3,Claude Code,terminal-m3-64k-1200-offline-v3,qemu-startup,completed,correct,1,False,64000,0,[],[],0,824324,24764,849088,25220,799104,0,28,True,0,0,0
+terminal-bench-2.0,MiniMax-M3,Claude Code,terminal-m3-64k-1200-offline-v3,query-optimize,completed,incorrect,0,False,64000,1,[63949],[5446],1,1823013,55625,1878638,108242,1714771,0,57,True,0,0,0
+terminal-bench-2.0,MiniMax-M3,Claude Code,terminal-m3-64k-1200-offline-v3,raman-fitting,completed,incorrect,0,False,64000,2,"[68168, 66267]","[12072, 10275]",2,1661269,82171,1743440,161119,1500150,0,43,True,0,0,0
+terminal-bench-2.0,MiniMax-M3,Claude Code,terminal-m3-64k-1200-offline-v3,regex-chess,completed,incorrect,0,False,64000,1,[63329],[16362],1,913309,126472,1039781,100882,812427,0,25,True,0,0,0
+terminal-bench-2.0,MiniMax-M3,Claude Code,terminal-m3-64k-1200-offline-v3,regex-log,completed,correct,1,False,64000,0,[],[],0,233098,11419,244517,16522,216576,0,10,True,0,0,0
+terminal-bench-2.0,MiniMax-M3,Claude Code,terminal-m3-64k-1200-offline-v3,reshard-c4-data,completed,correct,1,False,64000,1,[67106],[21878],1,2753209,58176,2811385,80927,2672282,0,63,True,0,0,0
+terminal-bench-2.0,MiniMax-M3,Claude Code,terminal-m3-64k-1200-offline-v3,rstan-to-pystan,completed,incorrect,0,False,64000,0,[],[],0,657342,12290,669632,37020,620322,0,25,True,0,0,0
+terminal-bench-2.0,MiniMax-M3,Claude Code,terminal-m3-64k-1200-offline-v3,sam-cell-seg,completed,incorrect,0,False,64000,0,[],[],0,1123305,31047,1154352,52369,1070936,0,34,True,0,0,0
+terminal-bench-2.0,MiniMax-M3,Claude Code,terminal-m3-64k-1200-offline-v3,sanitize-git-repo,completed,correct,1,False,64000,0,[],[],0,560825,6361,567186,45408,515417,0,15,True,0,0,0
+terminal-bench-2.0,MiniMax-M3,Claude Code,terminal-m3-64k-1200-offline-v3,schemelike-metacircular-eval,completed,incorrect,0,False,64000,2,"[65021, 67626]","[22488, 16834]",2,1877676,67287,1944963,148876,1728800,0,43,True,0,0,0
+terminal-bench-2.0,MiniMax-M3,Claude Code,terminal-m3-64k-1200-offline-v3,sparql-university,completed,incorrect,0,False,64000,0,[],[],0,588377,15213,603590,36613,551764,0,20,True,0,0,0
+terminal-bench-2.0,MiniMax-M3,Claude Code,terminal-m3-64k-1200-offline-v3,sqlite-db-truncate,completed,correct,1,False,64000,0,[],[],0,326083,24278,350361,18115,307968,0,11,True,0,0,0
+terminal-bench-2.0,MiniMax-M3,Claude Code,terminal-m3-64k-1200-offline-v3,sqlite-with-gcov,completed,correct,1,False,64000,0,[],[],0,577989,7660,585649,31686,546303,0,24,True,0,0,0
+terminal-bench-2.0,MiniMax-M3,Claude Code,terminal-m3-64k-1200-offline-v3,torch-pipeline-parallelism,completed,correct,1,False,64000,1,[63919],[7223],1,1332202,87555,1419757,133690,1198512,0,38,True,0,0,0
+terminal-bench-2.0,MiniMax-M3,Claude Code,terminal-m3-64k-1200-offline-v3,torch-tensor-parallelism,completed,incorrect,0,False,64000,0,[],[],0,1071334,38575,1109909,77554,993780,0,35,True,0,0,0
+terminal-bench-2.0,MiniMax-M3,Claude Code,terminal-m3-64k-1200-offline-v3,train-fasttext,completed,incorrect,0,False,64000,0,[],[],0,557678,12948,570626,31995,525683,0,24,True,0,0,0
+terminal-bench-2.0,MiniMax-M3,Claude Code,terminal-m3-64k-1200-offline-v3,tune-mjcf,completed,incorrect,0,False,64000,0,[],[],0,1583395,35685,1619080,61092,1522303,0,38,True,0,0,0
+terminal-bench-2.0,MiniMax-M3,Claude Code,terminal-m3-64k-1200-offline-v3,video-processing,completed,correct,1,False,64000,1,[67853],[7389],1,2616591,52362,2668953,116711,2499880,0,68,True,0,0,0
+terminal-bench-2.0,MiniMax-M3,Claude Code,terminal-m3-64k-1200-offline-v3,vulnerable-secret,completed,correct,1,False,64000,0,[],[],0,170857,2615,173472,23816,147041,0,9,True,0,0,0
+terminal-bench-2.0,MiniMax-M3,Claude Code,terminal-m3-64k-1200-offline-v3,winning-avg-corewars,completed,incorrect,0,False,64000,3,"[65296, 65417, 76455]","[7568, 10017, 20215]",3,2216154,168787,2384941,240370,1975784,0,52,True,0,0,0
+terminal-bench-2.0,MiniMax-M3,Claude Code,terminal-m3-64k-1200-offline-v3,write-compressor,completed,correct,1,False,64000,2,"[63990, 66124]","[6421, 10885]",2,4029501,106535,4136036,174193,3855308,0,87,True,0,0,0
+terminal-bench-2.0,MiniMax-M3,Codex,terminal-ark-m3-codex-64k-1200-offline-v1,adaptive-rejection-sampler,completed,incorrect,0,True,64000,0,[],[],0,139012,33316,172328,52293,86719,0,11,False,0,0,1
+terminal-bench-2.0,MiniMax-M3,Codex,terminal-ark-m3-codex-64k-1200-offline-v1,bn-fit-modify,completed,incorrect,0,True,64000,0,[],[],0,554574,10089,564663,30030,524544,0,31,True,0,0,0
+terminal-bench-2.0,MiniMax-M3,Codex,terminal-ark-m3-codex-64k-1200-offline-v1,break-filter-js-from-html,completed,correct,1,True,64000,0,[],[],0,529468,17405,546873,10044,519424,0,25,True,0,0,0
+terminal-bench-2.0,MiniMax-M3,Codex,terminal-ark-m3-codex-64k-1200-offline-v1,build-cython-ext,completed,incorrect,0,True,64000,0,[],[],0,1691821,18945,1710766,53773,1638048,0,51,True,0,0,0
+terminal-bench-2.0,MiniMax-M3,Codex,terminal-ark-m3-codex-64k-1200-offline-v1,build-pmars,completed,correct,1,True,64000,0,[],[],0,471233,4444,475677,19825,451408,0,33,True,0,0,0
+terminal-bench-2.0,MiniMax-M3,Codex,terminal-ark-m3-codex-64k-1200-offline-v1,build-pov-ray,completed,correct,1,True,64000,0,[],[],0,2188162,22663,2210825,55426,2132736,0,65,True,0,0,0
+terminal-bench-2.0,MiniMax-M3,Codex,terminal-ark-m3-codex-64k-1200-offline-v1,caffe-cifar-10,completed,incorrect,0,True,64000,0,[],[],0,1018414,17698,1036112,34094,984320,0,45,True,0,0,0
+terminal-bench-2.0,MiniMax-M3,Codex,terminal-ark-m3-codex-64k-1200-offline-v1,cancel-async-tasks,completed,correct,1,True,64000,0,[],[],0,859232,23765,882997,42087,817145,0,30,True,0,0,0
+terminal-bench-2.0,MiniMax-M3,Codex,terminal-ark-m3-codex-64k-1200-offline-v1,chess-best-move,completed,correct,1,True,64000,0,[],[],0,281923,6972,288895,19442,262481,0,19,True,0,0,0
+terminal-bench-2.0,MiniMax-M3,Codex,terminal-ark-m3-codex-64k-1200-offline-v1,circuit-fibsqrt,completed,incorrect,0,True,64000,2,"[null, null]","[null, null]",0,2187966,123803,2311769,299042,1888924,0,58,False,0,0,1
+terminal-bench-2.0,MiniMax-M3,Codex,terminal-ark-m3-codex-64k-1200-offline-v1,cobol-modernization,completed,incorrect,0,True,64000,3,"[null, null, null]","[null, null, null]",0,3386288,138276,3524564,334941,3051347,0,88,True,0,0,0
+terminal-bench-2.0,MiniMax-M3,Codex,terminal-ark-m3-codex-64k-1200-offline-v1,code-from-image,completed,correct,1,True,64000,0,[],[],0,94228,1141,95369,11757,82471,0,9,True,0,0,0
+terminal-bench-2.0,MiniMax-M3,Codex,terminal-ark-m3-codex-64k-1200-offline-v1,compile-compcert,skipped_agent_killed,unscored,,False,64000,0,[],[],0,231285,2291,233576,14056,217229,0,21,True,0,0,0
+terminal-bench-2.0,MiniMax-M3,Codex,terminal-ark-m3-codex-64k-1200-offline-v1,configure-git-webserver,completed,incorrect,0,True,64000,0,[],[],0,324792,11002,335794,22387,302405,0,20,True,0,0,0
+terminal-bench-2.0,MiniMax-M3,Codex,terminal-ark-m3-codex-64k-1200-offline-v1,constraints-scheduling,completed,correct,1,True,64000,0,[],[],0,47270,3491,50761,14347,32923,0,4,True,0,0,0
+terminal-bench-2.0,MiniMax-M3,Codex,terminal-ark-m3-codex-64k-1200-offline-v1,count-dataset-tokens,completed,incorrect,0,True,64000,0,[],[],0,715211,10906,726117,32034,683177,0,41,True,0,0,0
+terminal-bench-2.0,MiniMax-M3,Codex,terminal-ark-m3-codex-64k-1200-offline-v1,crack-7z-hash,completed,correct,1,True,64000,0,[],[],0,458459,6953,465412,21455,437004,0,30,True,0,0,0
+terminal-bench-2.0,MiniMax-M3,Codex,terminal-ark-m3-codex-64k-1200-offline-v1,custom-memory-heap-crash,completed,correct,1,True,64000,0,[],[],0,903162,25026,928188,47894,855268,0,30,True,0,0,0
+terminal-bench-2.0,MiniMax-M3,Codex,terminal-ark-m3-codex-64k-1200-offline-v1,db-wal-recovery,completed,correct,1,True,64000,0,[],[],0,215080,7414,222494,12712,202368,0,16,True,0,0,0
+terminal-bench-2.0,MiniMax-M3,Codex,terminal-ark-m3-codex-64k-1200-offline-v1,distribution-search,completed,correct,1,True,64000,0,[],[],0,516387,42044,558431,51406,464981,0,12,False,0,0,1
+terminal-bench-2.0,MiniMax-M3,Codex,terminal-ark-m3-codex-64k-1200-offline-v1,dna-assembly,completed,incorrect,0,True,64000,1,[null],[null],0,1917351,51175,1968526,142020,1775331,0,52,True,0,0,0
+terminal-bench-2.0,MiniMax-M3,Codex,terminal-ark-m3-codex-64k-1200-offline-v1,dna-insert,completed,incorrect,0,True,64000,1,[null],[null],0,1465212,60082,1525294,201512,1263700,0,45,True,0,0,0
+terminal-bench-2.0,MiniMax-M3,Codex,terminal-ark-m3-codex-64k-1200-offline-v1,extract-elf,completed,incorrect,0,True,64000,0,[],[],0,355424,19222,374646,34132,321292,0,16,True,0,0,0
+terminal-bench-2.0,MiniMax-M3,Codex,terminal-ark-m3-codex-64k-1200-offline-v1,extract-moves-from-video,completed,incorrect,0,True,64000,0,[],[],0,583398,11116,594514,24189,559209,0,40,True,0,0,0
+terminal-bench-2.0,MiniMax-M3,Codex,terminal-ark-m3-codex-64k-1200-offline-v1,feal-differential-cryptanalysis,completed,incorrect,0,True,64000,1,[null],[null],0,920162,74255,994417,142639,777523,0,28,True,0,0,0
+terminal-bench-2.0,MiniMax-M3,Codex,terminal-ark-m3-codex-64k-1200-offline-v1,feal-linear-cryptanalysis,completed,correct,1,True,64000,0,[],[],0,944557,37768,982325,54747,889810,0,23,True,0,0,0
+terminal-bench-2.0,MiniMax-M3,Codex,terminal-ark-m3-codex-64k-1200-offline-v1,filter-js-from-html,completed,incorrect,0,True,64000,1,[null],[null],0,1130885,63117,1194002,124532,1006353,0,35,True,0,0,0
+terminal-bench-2.0,MiniMax-M3,Codex,terminal-ark-m3-codex-64k-1200-offline-v1,financial-document-processor,completed,incorrect,0,True,64000,1,[null],[null],0,1935562,63422,1998984,157993,1777569,0,73,True,0,0,0
+terminal-bench-2.0,MiniMax-M3,Codex,terminal-ark-m3-codex-64k-1200-offline-v1,fix-code-vulnerability,completed,correct,1,True,64000,0,[],[],0,255317,4398,259715,19592,235725,0,17,True,0,0,0
+terminal-bench-2.0,MiniMax-M3,Codex,terminal-ark-m3-codex-64k-1200-offline-v1,fix-git,completed,correct,1,True,64000,0,[],[],0,98702,2072,100774,12974,85728,0,9,True,0,0,0
+terminal-bench-2.0,MiniMax-M3,Codex,terminal-ark-m3-codex-64k-1200-offline-v1,fix-ocaml-gc,completed,incorrect,0,True,64000,0,[],[],0,3462455,33267,3495722,196297,3266158,0,96,True,0,0,0
+terminal-bench-2.0,MiniMax-M3,Codex,terminal-ark-m3-codex-64k-1200-offline-v1,gcode-to-text,completed,incorrect,0,True,64000,1,[null],[null],0,1772549,24438,1796987,122479,1650070,0,57,True,0,0,0
+terminal-bench-2.0,MiniMax-M3,Codex,terminal-ark-m3-codex-64k-1200-offline-v1,git-leak-recovery,completed,correct,1,True,64000,0,[],[],0,201318,6578,207896,20225,181093,0,14,True,0,0,0
+terminal-bench-2.0,MiniMax-M3,Codex,terminal-ark-m3-codex-64k-1200-offline-v1,git-multibranch,completed,correct,1,True,64000,0,[],[],0,1188030,23402,1211432,44666,1143364,0,46,True,0,0,0
+terminal-bench-2.0,MiniMax-M3,Codex,terminal-ark-m3-codex-64k-1200-offline-v1,gpt2-codegolf,completed,incorrect,0,True,64000,1,[null],[null],0,1510552,88672,1599224,133492,1377060,0,50,True,0,0,0
+terminal-bench-2.0,MiniMax-M3,Codex,terminal-ark-m3-codex-64k-1200-offline-v1,headless-terminal,completed,correct,1,True,64000,1,[null],[null],0,2697206,55920,2753126,100770,2596436,0,84,True,0,0,0
+terminal-bench-2.0,MiniMax-M3,Codex,terminal-ark-m3-codex-64k-1200-offline-v1,hf-model-inference,completed,correct,1,True,64000,0,[],[],0,383335,8354,391689,22530,360805,0,24,True,0,0,0
+terminal-bench-2.0,MiniMax-M3,Codex,terminal-ark-m3-codex-64k-1200-offline-v1,install-windows-3.11,completed,incorrect,0,True,64000,0,[],[],0,2198393,31200,2229593,58674,2139719,0,64,True,0,0,0
+terminal-bench-2.0,MiniMax-M3,Codex,terminal-ark-m3-codex-64k-1200-offline-v1,kv-store-grpc,completed,correct,1,True,64000,0,[],[],0,255053,7464,262517,19850,235203,0,18,True,0,0,0
+terminal-bench-2.0,MiniMax-M3,Codex,terminal-ark-m3-codex-64k-1200-offline-v1,large-scale-text-editing,completed,correct,1,True,64000,0,[],[],0,512615,19083,531698,30544,482071,0,24,True,0,0,0
+terminal-bench-2.0,MiniMax-M3,Codex,terminal-ark-m3-codex-64k-1200-offline-v1,largest-eigenval,completed,incorrect,0,True,64000,1,[null],[null],0,1343503,66075,1409578,163401,1180102,0,52,True,0,0,0
+terminal-bench-2.0,MiniMax-M3,Codex,terminal-ark-m3-codex-64k-1200-offline-v1,llm-inference-batching-scheduler,completed,incorrect,0,True,64000,2,"[null, null]","[null, null]",0,1481279,91397,1572676,274213,1207066,0,44,True,0,0,0
+terminal-bench-2.0,MiniMax-M3,Codex,terminal-ark-m3-codex-64k-1200-offline-v1,log-summary-date-ranges,completed,correct,1,True,64000,0,[],[],0,68639,1283,69922,10952,57687,0,7,True,0,0,0
+terminal-bench-2.0,MiniMax-M3,Codex,terminal-ark-m3-codex-64k-1200-offline-v1,mailman,completed,incorrect,0,True,64000,1,[null],[null],0,2369407,33055,2402462,156995,2212412,0,63,True,0,0,0
+terminal-bench-2.0,MiniMax-M3,Codex,terminal-ark-m3-codex-64k-1200-offline-v1,make-doom-for-mips,completed,incorrect,0,True,64000,3,"[null, null, null]","[null, null, null]",0,4422634,116147,4538781,476038,3946596,0,123,True,0,0,0
+terminal-bench-2.0,MiniMax-M3,Codex,terminal-ark-m3-codex-64k-1200-offline-v1,make-mips-interpreter,completed,incorrect,0,True,64000,3,"[null, null, null]","[null, null, null]",0,4910201,88330,4998531,431748,4478453,0,142,True,0,0,0
+terminal-bench-2.0,MiniMax-M3,Codex,terminal-ark-m3-codex-64k-1200-offline-v1,mcmc-sampling-stan,completed,incorrect,0,True,64000,0,[],[],0,573456,14118,587574,27586,545870,0,30,True,0,0,0
+terminal-bench-2.0,MiniMax-M3,Codex,terminal-ark-m3-codex-64k-1200-offline-v1,merge-diff-arc-agi-task,completed,correct,1,True,64000,0,[],[],0,573226,16308,589534,31959,541267,0,26,True,0,0,0
+terminal-bench-2.0,MiniMax-M3,Codex,terminal-ark-m3-codex-64k-1200-offline-v1,model-extraction-relu-logits,completed,incorrect,0,True,64000,1,[null],[null],0,410934,94635,505569,133891,277043,0,12,False,0,0,2
+terminal-bench-2.0,MiniMax-M3,Codex,terminal-ark-m3-codex-64k-1200-offline-v1,modernize-scientific-stack,completed,correct,1,True,64000,0,[],[],0,184881,7179,192060,19073,165808,0,13,True,0,0,0
+terminal-bench-2.0,MiniMax-M3,Codex,terminal-ark-m3-codex-64k-1200-offline-v1,mteb-leaderboard,completed,incorrect,0,True,64000,0,[],[],0,1443562,26240,1469802,63077,1380485,0,73,False,1,0,0
+terminal-bench-2.0,MiniMax-M3,Codex,terminal-ark-m3-codex-64k-1200-offline-v1,mteb-retrieve,completed,incorrect,0,True,64000,0,[],[],0,945303,13541,958844,48598,896705,0,58,False,1,0,0
+terminal-bench-2.0,MiniMax-M3,Codex,terminal-ark-m3-codex-64k-1200-offline-v1,multi-source-data-merger,completed,correct,1,True,64000,0,[],[],0,126770,10536,137306,29332,97438,0,9,True,0,0,0
+terminal-bench-2.0,MiniMax-M3,Codex,terminal-ark-m3-codex-64k-1200-offline-v1,nginx-request-logging,completed,correct,1,True,64000,0,[],[],0,172193,4706,176899,15966,156227,0,14,True,0,0,0
+terminal-bench-2.0,MiniMax-M3,Codex,terminal-ark-m3-codex-64k-1200-offline-v1,openssl-selfsigned-cert,completed,correct,1,True,64000,0,[],[],0,128335,5099,133434,14758,113577,0,11,True,0,0,0
+terminal-bench-2.0,MiniMax-M3,Codex,terminal-ark-m3-codex-64k-1200-offline-v1,overfull-hbox,completed,incorrect,0,True,64000,1,[null],[null],0,1443280,52131,1495411,140382,1302898,0,46,True,0,0,0
+terminal-bench-2.0,MiniMax-M3,Codex,terminal-ark-m3-codex-64k-1200-offline-v1,password-recovery,completed,correct,1,True,64000,0,[],[],0,508418,21399,529817,47806,460612,0,19,True,0,0,0
+terminal-bench-2.0,MiniMax-M3,Codex,terminal-ark-m3-codex-64k-1200-offline-v1,path-tracing,completed,incorrect,0,True,64000,2,"[null, null]","[null, null]",0,1254345,68979,1323324,279792,974553,0,43,True,0,0,0
+terminal-bench-2.0,MiniMax-M3,Codex,terminal-ark-m3-codex-64k-1200-offline-v1,path-tracing-reverse,completed,incorrect,0,True,64000,2,"[null, null]","[null, null]",0,1576106,73119,1649225,301570,1274536,0,54,True,0,0,0
+terminal-bench-2.0,MiniMax-M3,Codex,terminal-ark-m3-codex-64k-1200-offline-v1,polyglot-c-py,completed,incorrect,0,True,64000,0,[],[],0,1017387,47984,1065371,62292,955095,0,25,True,0,0,0
+terminal-bench-2.0,MiniMax-M3,Codex,terminal-ark-m3-codex-64k-1200-offline-v1,polyglot-rust-c,completed,correct,1,True,64000,1,[null],[null],0,1670015,57968,1727983,149223,1520792,0,49,True,0,0,0
+terminal-bench-2.0,MiniMax-M3,Codex,terminal-ark-m3-codex-64k-1200-offline-v1,portfolio-optimization,completed,correct,1,True,64000,0,[],[],0,1173428,32231,1205659,52860,1120568,0,33,True,0,0,0
+terminal-bench-2.0,MiniMax-M3,Codex,terminal-ark-m3-codex-64k-1200-offline-v1,protein-assembly,completed,incorrect,0,True,64000,1,[null],[null],0,1864044,41591,1905635,139080,1724964,0,61,True,0,0,0
+terminal-bench-2.0,MiniMax-M3,Codex,terminal-ark-m3-codex-64k-1200-offline-v1,prove-plus-comm,completed,correct,1,True,64000,0,[],[],0,107388,3591,110979,12915,94473,0,10,True,0,0,0
+terminal-bench-2.0,MiniMax-M3,Codex,terminal-ark-m3-codex-64k-1200-offline-v1,pypi-server,completed,incorrect,0,True,64000,0,[],[],0,720839,17291,738130,33058,687781,0,36,True,0,0,0
+terminal-bench-2.0,MiniMax-M3,Codex,terminal-ark-m3-codex-64k-1200-offline-v1,pytorch-model-cli,completed,incorrect,0,True,64000,0,[],[],0,1045340,24292,1069632,41860,1003480,0,44,True,0,0,0
+terminal-bench-2.0,MiniMax-M3,Codex,terminal-ark-m3-codex-64k-1200-offline-v1,pytorch-model-recovery,completed,correct,1,True,64000,0,[],[],0,231901,18005,249906,28583,203318,0,12,True,0,0,0
+terminal-bench-2.0,MiniMax-M3,Codex,terminal-ark-m3-codex-64k-1200-offline-v1,qemu-alpine-ssh,completed,incorrect,0,False,64000,1,[null],[null],0,2075430,63263,2138693,165408,1910022,0,59,True,0,0,0
+terminal-bench-2.0,MiniMax-M3,Codex,terminal-ark-m3-codex-64k-1200-offline-v1,qemu-startup,completed,correct,1,False,64000,0,[],[],0,697317,23848,721165,38296,659021,0,32,True,0,0,0
+terminal-bench-2.0,MiniMax-M3,Codex,terminal-ark-m3-codex-64k-1200-offline-v1,query-optimize,completed,incorrect,0,False,64000,0,[],[],0,1441074,55137,1496211,145750,1295324,0,53,True,0,0,0
+terminal-bench-2.0,MiniMax-M3,Codex,terminal-ark-m3-codex-64k-1200-offline-v1,raman-fitting,completed,incorrect,0,False,64000,0,[],[],0,811333,22285,833618,52543,758790,0,31,False,1,0,0
+terminal-bench-2.0,MiniMax-M3,Codex,terminal-ark-m3-codex-64k-1200-offline-v1,regex-chess,completed,incorrect,0,False,64000,1,[null],[null],0,545764,101310,647074,160976,384788,0,14,True,0,0,0
+terminal-bench-2.0,MiniMax-M3,Codex,terminal-ark-m3-codex-64k-1200-offline-v1,regex-log,completed,correct,1,False,64000,0,[],[],0,381566,19293,400859,31907,349659,0,17,True,0,0,0
+terminal-bench-2.0,MiniMax-M3,Codex,terminal-ark-m3-codex-64k-1200-offline-v1,reshard-c4-data,completed,incorrect,0,False,64000,1,[null],[null],0,1200246,54078,1254324,146769,1053477,0,34,True,0,0,0
+terminal-bench-2.0,MiniMax-M3,Codex,terminal-ark-m3-codex-64k-1200-offline-v1,rstan-to-pystan,completed,incorrect,0,False,64000,0,[],[],0,1468286,27035,1495321,54683,1413603,0,44,True,0,0,0
+terminal-bench-2.0,MiniMax-M3,Codex,terminal-ark-m3-codex-64k-1200-offline-v1,sam-cell-seg,completed,incorrect,0,False,64000,0,[],[],0,457696,8660,466356,41790,415906,0,33,False,4,0,0
+terminal-bench-2.0,MiniMax-M3,Codex,terminal-ark-m3-codex-64k-1200-offline-v1,sanitize-git-repo,completed,correct,1,False,64000,0,[],[],0,188629,5454,194083,22341,166288,0,12,True,0,0,0
+terminal-bench-2.0,MiniMax-M3,Codex,terminal-ark-m3-codex-64k-1200-offline-v1,schemelike-metacircular-eval,completed,incorrect,0,False,64000,1,[null],[null],0,888062,75745,963807,150230,737832,0,33,True,0,0,0
+terminal-bench-2.0,MiniMax-M3,Codex,terminal-ark-m3-codex-64k-1200-offline-v1,sparql-university,completed,correct,1,False,64000,0,[],[],0,626620,14309,640929,31142,595478,0,30,True,0,0,0
+terminal-bench-2.0,MiniMax-M3,Codex,terminal-ark-m3-codex-64k-1200-offline-v1,sqlite-db-truncate,completed,correct,1,False,64000,0,[],[],0,452153,26778,478931,49664,402489,0,15,True,0,0,0
+terminal-bench-2.0,MiniMax-M3,Codex,terminal-ark-m3-codex-64k-1200-offline-v1,sqlite-with-gcov,completed,correct,1,False,64000,0,[],[],0,931139,14758,945897,34774,896365,0,43,True,0,0,0
+terminal-bench-2.0,MiniMax-M3,Codex,terminal-ark-m3-codex-64k-1200-offline-v1,torch-pipeline-parallelism,completed,incorrect,0,False,64000,0,[],[],0,1519270,44398,1563668,63613,1455657,0,40,False,1,0,0
+terminal-bench-2.0,MiniMax-M3,Codex,terminal-ark-m3-codex-64k-1200-offline-v1,torch-tensor-parallelism,completed,incorrect,0,False,64000,1,[null],[null],0,2480756,47603,2528359,137066,2343690,0,70,True,0,0,0
+terminal-bench-2.0,MiniMax-M3,Codex,terminal-ark-m3-codex-64k-1200-offline-v1,train-fasttext,completed,incorrect,0,False,64000,0,[],[],0,746235,22364,768599,19707,726528,0,35,True,0,0,0
+terminal-bench-2.0,MiniMax-M3,Codex,terminal-ark-m3-codex-64k-1200-offline-v1,tune-mjcf,completed,correct,1,False,64000,0,[],[],0,615969,22834,638803,37989,577980,0,24,True,0,0,0
+terminal-bench-2.0,MiniMax-M3,Codex,terminal-ark-m3-codex-64k-1200-offline-v1,video-processing,completed,incorrect,0,False,64000,2,"[null, null]","[null, null]",0,1992583,72091,2064674,269719,1722864,0,64,True,0,0,0
+terminal-bench-2.0,MiniMax-M3,Codex,terminal-ark-m3-codex-64k-1200-offline-v1,vulnerable-secret,completed,correct,1,False,64000,0,[],[],0,153820,3585,157405,21890,131930,0,10,True,0,0,0
+terminal-bench-2.0,MiniMax-M3,Codex,terminal-ark-m3-codex-64k-1200-offline-v1,winning-avg-corewars,completed,incorrect,0,False,64000,1,[null],[null],0,1151044,88706,1239750,164700,986344,0,35,True,0,0,0
+terminal-bench-2.0,MiniMax-M3,Codex,terminal-ark-m3-codex-64k-1200-offline-v1,write-compressor,completed,incorrect,0,False,64000,2,"[null, null]","[null, null]",0,1452897,108370,1561267,270671,1182226,0,45,False,1,1,0
+terminal-bench-2.0,MiniMax-M3,DSH,terminal-ark-m3-deepseek-64k-1200-offline-v2,adaptive-rejection-sampler,completed,incorrect,0,True,64000,0,[],[],0,2548410,33643,2582053,53542,2494868,0,71,True,0,0,0
+terminal-bench-2.0,MiniMax-M3,DSH,terminal-ark-m3-deepseek-64k-1200-offline-v2,bn-fit-modify,completed,correct,1,True,64000,0,[],[],0,269605,7078,276683,17602,252003,0,24,True,0,0,0
+terminal-bench-2.0,MiniMax-M3,DSH,terminal-ark-m3-deepseek-64k-1200-offline-v2,break-filter-js-from-html,completed,correct,1,True,64000,0,[],[],0,211131,10659,221790,19365,191766,0,14,True,0,0,0
+terminal-bench-2.0,MiniMax-M3,DSH,terminal-ark-m3-deepseek-64k-1200-offline-v2,build-cython-ext,completed,incorrect,0,True,64000,0,[],[],0,2139169,12785,2151954,43525,2095644,0,87,True,0,0,0
+terminal-bench-2.0,MiniMax-M3,DSH,terminal-ark-m3-deepseek-64k-1200-offline-v2,build-pmars,completed,correct,1,True,64000,0,[],[],0,1023479,12293,1035772,35290,988189,0,48,True,0,0,0
+terminal-bench-2.0,MiniMax-M3,DSH,terminal-ark-m3-deepseek-64k-1200-offline-v2,build-pov-ray,completed,correct,1,True,64000,0,[],[],0,908036,5658,913694,35145,872891,0,42,True,0,0,0
+terminal-bench-2.0,MiniMax-M3,DSH,terminal-ark-m3-deepseek-64k-1200-offline-v2,caffe-cifar-10,completed,incorrect,0,True,64000,0,[],[],0,252555,8306,260861,21292,231263,0,19,True,0,0,0
+terminal-bench-2.0,MiniMax-M3,DSH,terminal-ark-m3-deepseek-64k-1200-offline-v2,cancel-async-tasks,completed,correct,1,True,64000,0,[],[],0,1811629,34739,1846368,50658,1760971,0,52,True,0,0,0
+terminal-bench-2.0,MiniMax-M3,DSH,terminal-ark-m3-deepseek-64k-1200-offline-v2,chess-best-move,completed,correct,1,True,64000,0,[],[],0,722848,22410,745258,37134,685714,0,34,True,0,0,0
+terminal-bench-2.0,MiniMax-M3,DSH,terminal-ark-m3-deepseek-64k-1200-offline-v2,circuit-fibsqrt,completed,incorrect,0,True,64000,2,"[null, null]","[null, null]",0,4286466,101334,4387800,193805,4092661,0,95,True,0,0,0
+terminal-bench-2.0,MiniMax-M3,DSH,terminal-ark-m3-deepseek-64k-1200-offline-v2,cobol-modernization,completed,correct,1,True,64000,0,[],[],0,3280925,71653,3352578,110951,3169974,0,113,False,6,0,0
+terminal-bench-2.0,MiniMax-M3,DSH,terminal-ark-m3-deepseek-64k-1200-offline-v2,code-from-image,completed,correct,1,True,64000,0,[],[],0,35825,508,36333,7583,28242,0,5,True,0,0,0
+terminal-bench-2.0,MiniMax-M3,DSH,terminal-ark-m3-deepseek-64k-1200-offline-v2,compile-compcert,skipped_agent_killed,unscored,,False,64000,0,[],[],0,432091,4755,436846,16859,415232,0,34,True,0,0,0
+terminal-bench-2.0,MiniMax-M3,DSH,terminal-ark-m3-deepseek-64k-1200-offline-v2,configure-git-webserver,completed,correct,1,True,64000,0,[],[],0,1202979,16260,1219239,31112,1171867,0,68,True,0,0,0
+terminal-bench-2.0,MiniMax-M3,DSH,terminal-ark-m3-deepseek-64k-1200-offline-v2,constraints-scheduling,completed,correct,1,True,64000,0,[],[],0,59032,3179,62211,12237,46795,0,6,True,0,0,0
+terminal-bench-2.0,MiniMax-M3,DSH,terminal-ark-m3-deepseek-64k-1200-offline-v2,count-dataset-tokens,completed,incorrect,0,True,64000,0,[],[],0,59014,977,59991,7586,51428,0,9,True,0,0,0
+terminal-bench-2.0,MiniMax-M3,DSH,terminal-ark-m3-deepseek-64k-1200-offline-v2,crack-7z-hash,completed,correct,1,True,64000,1,[null],[null],0,4279739,30699,4310438,76208,4203531,0,126,True,0,0,0
+terminal-bench-2.0,MiniMax-M3,DSH,terminal-ark-m3-deepseek-64k-1200-offline-v2,custom-memory-heap-crash,completed,correct,1,True,64000,0,[],[],0,1666323,18356,1684679,40937,1625386,0,65,True,0,0,0
+terminal-bench-2.0,MiniMax-M3,DSH,terminal-ark-m3-deepseek-64k-1200-offline-v2,db-wal-recovery,completed,correct,1,True,64000,0,[],[],0,176885,4976,181861,12699,164186,0,19,True,0,0,0
+terminal-bench-2.0,MiniMax-M3,DSH,terminal-ark-m3-deepseek-64k-1200-offline-v2,distribution-search,completed,correct,1,True,64000,0,[],[],0,256112,8705,264817,20358,235754,0,19,True,0,0,0
+terminal-bench-2.0,MiniMax-M3,DSH,terminal-ark-m3-deepseek-64k-1200-offline-v2,dna-assembly,completed,incorrect,0,True,64000,3,"[null, null, null]","[null, null, null]",0,10565655,83592,10649247,255061,10310594,0,222,True,0,0,0
+terminal-bench-2.0,MiniMax-M3,DSH,terminal-ark-m3-deepseek-64k-1200-offline-v2,dna-insert,completed,incorrect,0,True,64000,0,[],[],0,690709,9845,700554,39997,650712,0,26,True,0,0,0
+terminal-bench-2.0,MiniMax-M3,DSH,terminal-ark-m3-deepseek-64k-1200-offline-v2,extract-elf,completed,incorrect,0,True,64000,0,[],[],0,916084,23515,939599,24948,891136,0,34,True,0,0,0
+terminal-bench-2.0,MiniMax-M3,DSH,terminal-ark-m3-deepseek-64k-1200-offline-v2,extract-moves-from-video,completed,incorrect,0,True,64000,0,[],[],0,116562,3388,119950,11485,105077,0,14,True,0,0,0
+terminal-bench-2.0,MiniMax-M3,DSH,terminal-ark-m3-deepseek-64k-1200-offline-v2,feal-differential-cryptanalysis,completed,incorrect,0,True,64000,0,[],[],0,1073800,21445,1095245,33876,1039924,0,50,True,0,0,0
+terminal-bench-2.0,MiniMax-M3,DSH,terminal-ark-m3-deepseek-64k-1200-offline-v2,feal-linear-cryptanalysis,completed,correct,1,True,64000,1,[null],[null],0,2699457,54327,2753784,62348,2637109,0,72,True,0,0,0
+terminal-bench-2.0,MiniMax-M3,DSH,terminal-ark-m3-deepseek-64k-1200-offline-v2,filter-js-from-html,completed,incorrect,0,True,64000,1,[null],[null],0,8242121,88351,8330472,174984,8067137,0,192,True,0,0,0
+terminal-bench-2.0,MiniMax-M3,DSH,terminal-ark-m3-deepseek-64k-1200-offline-v2,financial-document-processor,completed,correct,1,True,64000,0,[],[],0,781408,5013,786421,53978,727430,0,26,True,0,0,0
+terminal-bench-2.0,MiniMax-M3,DSH,terminal-ark-m3-deepseek-64k-1200-offline-v2,fix-code-vulnerability,completed,correct,1,True,64000,0,[],[],0,142674,1892,144566,15617,127057,0,12,True,0,0,0
+terminal-bench-2.0,MiniMax-M3,DSH,terminal-ark-m3-deepseek-64k-1200-offline-v2,fix-git,completed,correct,1,True,64000,0,[],[],0,107881,2209,110090,10764,97117,0,12,True,0,0,0
+terminal-bench-2.0,MiniMax-M3,DSH,terminal-ark-m3-deepseek-64k-1200-offline-v2,fix-ocaml-gc,completed,correct,1,True,64000,4,"[null, null, null, null]","[null, null, null, null]",0,12246059,62976,12309035,288053,11958006,0,255,True,0,0,0
+terminal-bench-2.0,MiniMax-M3,DSH,terminal-ark-m3-deepseek-64k-1200-offline-v2,gcode-to-text,completed,incorrect,0,True,64000,0,[],[],0,1014438,9546,1023984,43493,970945,0,47,True,0,0,0
+terminal-bench-2.0,MiniMax-M3,DSH,terminal-ark-m3-deepseek-64k-1200-offline-v2,git-leak-recovery,completed,correct,1,True,64000,0,[],[],0,63281,1580,64861,8164,55117,0,9,True,0,0,0
+terminal-bench-2.0,MiniMax-M3,DSH,terminal-ark-m3-deepseek-64k-1200-offline-v2,git-multibranch,completed,correct,1,True,64000,0,[],[],0,1253661,19649,1273310,20253,1233408,0,62,True,0,0,0
+terminal-bench-2.0,MiniMax-M3,DSH,terminal-ark-m3-deepseek-64k-1200-offline-v2,gpt2-codegolf,completed,incorrect,0,True,64000,0,[],[],0,181345,4828,186173,12855,168490,0,19,True,0,0,0
+terminal-bench-2.0,MiniMax-M3,DSH,terminal-ark-m3-deepseek-64k-1200-offline-v2,headless-terminal,completed,incorrect,0,True,64000,0,[],[],0,2085776,25348,2111124,45127,2040649,0,71,True,0,0,0
+terminal-bench-2.0,MiniMax-M3,DSH,terminal-ark-m3-deepseek-64k-1200-offline-v2,hf-model-inference,completed,incorrect,0,True,64000,0,[],[],0,221706,6854,228560,6794,214912,0,20,True,0,0,0
+terminal-bench-2.0,MiniMax-M3,DSH,terminal-ark-m3-deepseek-64k-1200-offline-v2,install-windows-3.11,completed,incorrect,0,True,64000,0,[],[],0,2573515,23112,2596627,51424,2522091,0,97,True,0,0,0
+terminal-bench-2.0,MiniMax-M3,DSH,terminal-ark-m3-deepseek-64k-1200-offline-v2,kv-store-grpc,completed,incorrect,0,True,64000,0,[],[],0,103821,2668,106489,10120,93701,0,13,True,0,0,0
+terminal-bench-2.0,MiniMax-M3,DSH,terminal-ark-m3-deepseek-64k-1200-offline-v2,large-scale-text-editing,completed,correct,1,True,64000,0,[],[],0,693559,12342,705901,23405,670154,0,46,True,0,0,0
+terminal-bench-2.0,MiniMax-M3,DSH,terminal-ark-m3-deepseek-64k-1200-offline-v2,largest-eigenval,completed,correct,1,True,64000,1,[null],[null],0,3814553,55584,3870137,109804,3704749,0,103,True,0,0,0
+terminal-bench-2.0,MiniMax-M3,DSH,terminal-ark-m3-deepseek-64k-1200-offline-v2,llm-inference-batching-scheduler,completed,correct,1,True,64000,0,[],[],0,534167,17038,551205,32726,501441,0,26,True,0,0,0
+terminal-bench-2.0,MiniMax-M3,DSH,terminal-ark-m3-deepseek-64k-1200-offline-v2,log-summary-date-ranges,completed,correct,1,True,64000,0,[],[],0,114904,3019,117923,12158,102746,0,11,True,0,0,0
+terminal-bench-2.0,MiniMax-M3,DSH,terminal-ark-m3-deepseek-64k-1200-offline-v2,mailman,completed,correct,1,True,64000,0,[],[],0,1639652,14756,1654408,40896,1598756,0,67,True,0,0,0
+terminal-bench-2.0,MiniMax-M3,DSH,terminal-ark-m3-deepseek-64k-1200-offline-v2,make-doom-for-mips,completed,incorrect,0,True,64000,5,"[null, null, null, null, null]","[null, null, null, null, null]",0,12771606,124861,12896467,348013,12423593,0,263,True,0,0,0
+terminal-bench-2.0,MiniMax-M3,DSH,terminal-ark-m3-deepseek-64k-1200-offline-v2,make-mips-interpreter,completed,incorrect,0,True,64000,4,"[null, null, null, null]","[null, null, null, null]",0,9796054,98975,9895029,302887,9493167,0,207,True,0,0,0
+terminal-bench-2.0,MiniMax-M3,DSH,terminal-ark-m3-deepseek-64k-1200-offline-v2,mcmc-sampling-stan,completed,incorrect,0,True,64000,0,[],[],0,246807,6198,253005,15727,231080,0,23,True,0,0,0
+terminal-bench-2.0,MiniMax-M3,DSH,terminal-ark-m3-deepseek-64k-1200-offline-v2,merge-diff-arc-agi-task,completed,correct,1,True,64000,0,[],[],0,458589,7009,465598,20134,438455,0,32,True,0,0,0
+terminal-bench-2.0,MiniMax-M3,DSH,terminal-ark-m3-deepseek-64k-1200-offline-v2,model-extraction-relu-logits,completed,incorrect,0,True,64000,1,[null],[null],0,1567018,43600,1610618,99805,1467213,0,46,True,0,0,0
+terminal-bench-2.0,MiniMax-M3,DSH,terminal-ark-m3-deepseek-64k-1200-offline-v2,modernize-scientific-stack,completed,correct,1,True,64000,0,[],[],0,149884,5331,155215,14087,135797,0,14,True,0,0,0
+terminal-bench-2.0,MiniMax-M3,DSH,terminal-ark-m3-deepseek-64k-1200-offline-v2,mteb-leaderboard,completed,incorrect,0,True,64000,0,[],[],0,335957,5313,341270,20462,315495,0,30,True,0,0,0
+terminal-bench-2.0,MiniMax-M3,DSH,terminal-ark-m3-deepseek-64k-1200-offline-v2,mteb-retrieve,completed,incorrect,0,True,64000,0,[],[],0,168360,2969,171329,13322,155038,0,17,True,0,0,0
+terminal-bench-2.0,MiniMax-M3,DSH,terminal-ark-m3-deepseek-64k-1200-offline-v2,multi-source-data-merger,completed,correct,1,True,64000,0,[],[],0,137226,6059,143285,9738,127488,0,13,True,0,0,0
+terminal-bench-2.0,MiniMax-M3,DSH,terminal-ark-m3-deepseek-64k-1200-offline-v2,nginx-request-logging,completed,correct,1,True,64000,0,[],[],0,132013,2828,134841,11209,120804,0,15,True,0,0,0
+terminal-bench-2.0,MiniMax-M3,DSH,terminal-ark-m3-deepseek-64k-1200-offline-v2,openssl-selfsigned-cert,completed,correct,1,True,64000,0,[],[],0,222180,4113,226293,4580,217600,0,24,True,0,0,0
+terminal-bench-2.0,MiniMax-M3,DSH,terminal-ark-m3-deepseek-64k-1200-offline-v2,overfull-hbox,completed,correct,1,True,64000,0,[],[],0,2038409,21342,2059751,40180,1998229,0,81,True,0,0,0
+terminal-bench-2.0,MiniMax-M3,DSH,terminal-ark-m3-deepseek-64k-1200-offline-v2,password-recovery,completed,correct,1,True,64000,1,[null],[null],0,2334983,23729,2358712,121433,2213550,0,60,True,0,0,0
+terminal-bench-2.0,MiniMax-M3,DSH,terminal-ark-m3-deepseek-64k-1200-offline-v2,path-tracing,completed,incorrect,0,True,64000,1,[null],[null],0,2801185,46762,2847947,114779,2686406,0,82,True,0,0,0
+terminal-bench-2.0,MiniMax-M3,DSH,terminal-ark-m3-deepseek-64k-1200-offline-v2,path-tracing-reverse,completed,correct,1,True,64000,8,"[null, null, null, null, null, null, null, null]","[null, null, null, null, null, null, null, null]",0,10990738,120938,11111676,569397,10421341,0,223,True,0,0,0
+terminal-bench-2.0,MiniMax-M3,DSH,terminal-ark-m3-deepseek-64k-1200-offline-v2,polyglot-c-py,completed,incorrect,0,True,64000,0,[],[],0,295632,9535,305167,16523,279109,0,28,True,0,0,0
+terminal-bench-2.0,MiniMax-M3,DSH,terminal-ark-m3-deepseek-64k-1200-offline-v2,polyglot-rust-c,completed,incorrect,0,True,64000,0,[],[],0,2325569,40574,2366143,64654,2260915,0,112,True,0,0,0
+terminal-bench-2.0,MiniMax-M3,DSH,terminal-ark-m3-deepseek-64k-1200-offline-v2,portfolio-optimization,completed,correct,1,True,64000,0,[],[],0,365323,13724,379047,26157,339166,0,22,True,0,0,0
+terminal-bench-2.0,MiniMax-M3,DSH,terminal-ark-m3-deepseek-64k-1200-offline-v2,protein-assembly,completed,incorrect,0,True,64000,0,[],[],0,1965600,18943,1984543,73015,1892585,0,66,True,0,0,0
+terminal-bench-2.0,MiniMax-M3,DSH,terminal-ark-m3-deepseek-64k-1200-offline-v2,prove-plus-comm,completed,correct,1,True,64000,0,[],[],0,135443,3057,138500,9847,125596,0,17,True,0,0,0
+terminal-bench-2.0,MiniMax-M3,DSH,terminal-ark-m3-deepseek-64k-1200-offline-v2,pypi-server,completed,incorrect,0,True,64000,0,[],[],0,526815,9807,536622,20842,505973,0,39,True,0,0,0
+terminal-bench-2.0,MiniMax-M3,DSH,terminal-ark-m3-deepseek-64k-1200-offline-v2,pytorch-model-cli,completed,incorrect,0,True,64000,0,[],[],0,4447790,34202,4481992,58644,4389146,0,136,True,0,0,0
+terminal-bench-2.0,MiniMax-M3,DSH,terminal-ark-m3-deepseek-64k-1200-offline-v2,pytorch-model-recovery,completed,correct,1,True,64000,0,[],[],0,180059,6626,186685,14784,165275,0,16,True,0,0,0
+terminal-bench-2.0,MiniMax-M3,DSH,terminal-ark-m3-deepseek-64k-1200-offline-v2,qemu-alpine-ssh,completed,incorrect,0,False,64000,0,[],[],0,293378,6326,299704,19843,273535,0,30,True,0,0,0
+terminal-bench-2.0,MiniMax-M3,DSH,terminal-ark-m3-deepseek-64k-1200-offline-v2,qemu-startup,completed,incorrect,0,False,64000,0,[],[],0,69604,2151,71755,13007,56597,0,10,True,0,0,0
+terminal-bench-2.0,MiniMax-M3,DSH,terminal-ark-m3-deepseek-64k-1200-offline-v2,query-optimize,completed,incorrect,0,False,64000,0,[],[],0,129807,2795,132602,31404,98403,0,13,True,0,0,0
+terminal-bench-2.0,MiniMax-M3,DSH,terminal-ark-m3-deepseek-64k-1200-offline-v2,raman-fitting,completed,incorrect,0,False,64000,0,[],[],0,315460,7575,323035,22134,293326,0,24,True,0,0,0
+terminal-bench-2.0,MiniMax-M3,DSH,terminal-ark-m3-deepseek-64k-1200-offline-v2,regex-chess,completed,incorrect,0,False,64000,0,[],[],0,311510,46972,358482,29082,282428,0,18,True,0,0,0
+terminal-bench-2.0,MiniMax-M3,DSH,terminal-ark-m3-deepseek-64k-1200-offline-v2,regex-log,completed,correct,1,False,64000,0,[],[],0,352565,13576,366141,22239,330326,0,25,True,0,0,0
+terminal-bench-2.0,MiniMax-M3,DSH,terminal-ark-m3-deepseek-64k-1200-offline-v2,reshard-c4-data,completed,correct,1,False,64000,0,[],[],0,1456368,25679,1482047,38618,1417750,0,60,True,0,0,0
+terminal-bench-2.0,MiniMax-M3,DSH,terminal-ark-m3-deepseek-64k-1200-offline-v2,rstan-to-pystan,completed,correct,1,False,64000,0,[],[],0,696929,7896,704825,60449,636480,0,34,True,0,0,0
+terminal-bench-2.0,MiniMax-M3,DSH,terminal-ark-m3-deepseek-64k-1200-offline-v2,sam-cell-seg,completed,incorrect,0,False,64000,0,[],[],0,530452,14599,545051,46996,483456,0,36,True,0,0,0
+terminal-bench-2.0,MiniMax-M3,DSH,terminal-ark-m3-deepseek-64k-1200-offline-v2,sanitize-git-repo,completed,incorrect,0,False,64000,0,[],[],0,317565,3303,320868,26803,290762,0,16,True,0,0,0
+terminal-bench-2.0,MiniMax-M3,DSH,terminal-ark-m3-deepseek-64k-1200-offline-v2,schemelike-metacircular-eval,completed,incorrect,0,False,64000,2,"[null, null]","[null, null]",0,10010691,80655,10091346,136460,9874231,0,222,True,0,0,0
+terminal-bench-2.0,MiniMax-M3,DSH,terminal-ark-m3-deepseek-64k-1200-offline-v2,sparql-university,completed,incorrect,0,False,64000,0,[],[],0,152003,4239,156242,16602,135401,0,13,True,0,0,0
+terminal-bench-2.0,MiniMax-M3,DSH,terminal-ark-m3-deepseek-64k-1200-offline-v2,sqlite-db-truncate,completed,correct,1,False,64000,0,[],[],0,92835,4387,97222,12276,80559,0,11,True,0,0,0
+terminal-bench-2.0,MiniMax-M3,DSH,terminal-ark-m3-deepseek-64k-1200-offline-v2,sqlite-with-gcov,completed,correct,1,False,64000,0,[],[],0,487391,5108,492499,24335,463056,0,33,True,0,0,0
+terminal-bench-2.0,MiniMax-M3,DSH,terminal-ark-m3-deepseek-64k-1200-offline-v2,torch-pipeline-parallelism,completed,incorrect,0,False,64000,0,[],[],0,2084018,29490,2113508,49770,2034248,0,77,True,0,0,0
+terminal-bench-2.0,MiniMax-M3,DSH,terminal-ark-m3-deepseek-64k-1200-offline-v2,torch-tensor-parallelism,completed,incorrect,0,False,64000,0,[],[],0,111695,3766,115461,12419,99276,0,12,True,0,0,0
+terminal-bench-2.0,MiniMax-M3,DSH,terminal-ark-m3-deepseek-64k-1200-offline-v2,train-fasttext,completed,incorrect,0,False,64000,0,[],[],0,377773,5330,383103,39327,338446,0,20,True,0,0,0
+terminal-bench-2.0,MiniMax-M3,DSH,terminal-ark-m3-deepseek-64k-1200-offline-v2,tune-mjcf,completed,correct,1,False,64000,0,[],[],0,725728,13932,739660,27393,698335,0,41,True,0,0,0
+terminal-bench-2.0,MiniMax-M3,DSH,terminal-ark-m3-deepseek-64k-1200-offline-v2,video-processing,completed,incorrect,0,False,64000,2,"[null, null]","[null, null]",0,3949202,63799,4013001,172983,3776219,0,103,True,0,0,0
+terminal-bench-2.0,MiniMax-M3,DSH,terminal-ark-m3-deepseek-64k-1200-offline-v2,vulnerable-secret,completed,correct,1,False,64000,0,[],[],0,128212,2824,131036,14590,113622,0,12,True,0,0,0
+terminal-bench-2.0,MiniMax-M3,DSH,terminal-ark-m3-deepseek-64k-1200-offline-v2,winning-avg-corewars,completed,correct,1,False,64000,0,[],[],0,2924717,32883,2957600,53404,2871313,0,101,True,0,0,0
+terminal-bench-2.0,MiniMax-M3,DSH,terminal-ark-m3-deepseek-64k-1200-offline-v2,write-compressor,completed,incorrect,0,False,64000,2,"[null, null]","[null, null]",0,3117555,94314,3211869,163327,2954228,0,84,False,1,1,0
+terminal-bench-2.0,MiniMax-M3,Pi,terminal-minimax-m3-pi-64k-1200-offline-v1,adaptive-rejection-sampler,completed,incorrect,0,True,64000,2,"[64115, 64029]","[null, null]",0,8230305,97309,8327614,181065,8049240,0,192,True,0,0,0
+terminal-bench-2.0,MiniMax-M3,Pi,terminal-minimax-m3-pi-64k-1200-offline-v1,bn-fit-modify,completed,incorrect,0,True,64000,0,[],[],0,337470,15403,352873,22622,314848,0,29,True,0,0,0
+terminal-bench-2.0,MiniMax-M3,Pi,terminal-minimax-m3-pi-64k-1200-offline-v1,break-filter-js-from-html,completed,correct,1,True,64000,0,[],[],0,118621,6919,125540,11086,107535,0,17,True,0,0,0
+terminal-bench-2.0,MiniMax-M3,Pi,terminal-minimax-m3-pi-64k-1200-offline-v1,build-cython-ext,completed,incorrect,0,True,64000,1,[64133],[null],0,4005923,19949,4025872,118257,3887666,0,112,True,0,0,0
+terminal-bench-2.0,MiniMax-M3,Pi,terminal-minimax-m3-pi-64k-1200-offline-v1,build-pmars,completed,correct,1,True,64000,0,[],[],0,1659513,11024,1670537,34681,1624832,0,70,True,0,0,0
+terminal-bench-2.0,MiniMax-M3,Pi,terminal-minimax-m3-pi-64k-1200-offline-v1,build-pov-ray,completed,correct,1,True,64000,1,[64093],[null],0,7330695,36553,7367248,137156,7193539,0,181,True,0,0,0
+terminal-bench-2.0,MiniMax-M3,Pi,terminal-minimax-m3-pi-64k-1200-offline-v1,caffe-cifar-10,completed,incorrect,0,True,64000,0,[],[],0,435795,4993,440788,25263,410532,0,28,True,0,0,0
+terminal-bench-2.0,MiniMax-M3,Pi,terminal-minimax-m3-pi-64k-1200-offline-v1,cancel-async-tasks,completed,incorrect,0,True,64000,0,[],[],0,63740,4776,68516,8063,55677,0,12,True,0,0,0
+terminal-bench-2.0,MiniMax-M3,Pi,terminal-minimax-m3-pi-64k-1200-offline-v1,chess-best-move,completed,incorrect,0,True,64000,0,[],[],0,383886,5553,389439,22261,361625,0,25,True,0,0,0
+terminal-bench-2.0,MiniMax-M3,Pi,terminal-minimax-m3-pi-64k-1200-offline-v1,circuit-fibsqrt,completed,incorrect,0,True,64000,0,[],[],0,42765,34781,77546,6926,35839,0,8,True,0,0,0
+terminal-bench-2.0,MiniMax-M3,Pi,terminal-minimax-m3-pi-64k-1200-offline-v1,cobol-modernization,completed,incorrect,0,True,64000,4,"[65312, 64321, 66643, 64177]","[null, null, null, null]",0,9613348,136079,9749427,400150,9213198,0,237,True,0,0,0
+terminal-bench-2.0,MiniMax-M3,Pi,terminal-minimax-m3-pi-64k-1200-offline-v1,code-from-image,completed,correct,1,True,64000,4,"[67134, 65024, 64285, 70942]","[null, null, null, null]",0,4688507,123545,4812052,375364,4313143,0,167,False,6,0,0
+terminal-bench-2.0,MiniMax-M3,Pi,terminal-minimax-m3-pi-64k-1200-offline-v1,compile-compcert,skipped_agent_killed,unscored,,False,64000,0,[],[],0,120574,2420,122994,10962,109612,0,18,True,0,0,0
+terminal-bench-2.0,MiniMax-M3,Pi,terminal-minimax-m3-pi-64k-1200-offline-v1,configure-git-webserver,completed,correct,1,True,64000,0,[],[],0,785537,12651,798188,20762,764775,0,69,True,0,0,0
+terminal-bench-2.0,MiniMax-M3,Pi,terminal-minimax-m3-pi-64k-1200-offline-v1,constraints-scheduling,completed,correct,1,True,64000,0,[],[],0,35362,2946,38308,6903,28459,0,7,True,0,0,0
+terminal-bench-2.0,MiniMax-M3,Pi,terminal-minimax-m3-pi-64k-1200-offline-v1,count-dataset-tokens,completed,incorrect,0,True,64000,0,[],[],0,135685,3818,139503,14685,121000,0,18,True,0,0,0
+terminal-bench-2.0,MiniMax-M3,Pi,terminal-minimax-m3-pi-64k-1200-offline-v1,crack-7z-hash,completed,correct,1,True,64000,0,[],[],0,2519442,38229,2557671,61847,2457595,0,69,True,0,0,0
+terminal-bench-2.0,MiniMax-M3,Pi,terminal-minimax-m3-pi-64k-1200-offline-v1,custom-memory-heap-crash,completed,correct,1,True,64000,1,[74118],[null],0,3832731,34809,3867540,141337,3691394,0,114,True,0,0,0
+terminal-bench-2.0,MiniMax-M3,Pi,terminal-minimax-m3-pi-64k-1200-offline-v1,db-wal-recovery,completed,incorrect,0,True,64000,5,"[65112, 64384, 65554, 65670, 64864]","[null, null, null, null, null]",0,6259389,112025,6371414,411521,5847868,0,151,True,0,0,0
+terminal-bench-2.0,MiniMax-M3,Pi,terminal-minimax-m3-pi-64k-1200-offline-v1,distribution-search,completed,correct,1,True,64000,0,[],[],0,592808,17631,610439,25187,567621,0,40,True,0,0,0
+terminal-bench-2.0,MiniMax-M3,Pi,terminal-minimax-m3-pi-64k-1200-offline-v1,dna-assembly,completed,incorrect,0,True,64000,0,[],[],0,2865284,38267,2903551,60657,2804627,0,96,True,0,0,0
+terminal-bench-2.0,MiniMax-M3,Pi,terminal-minimax-m3-pi-64k-1200-offline-v1,dna-insert,completed,incorrect,0,True,64000,1,[74635],[null],0,2252577,36625,2289202,126091,2126486,0,83,True,0,0,0
+terminal-bench-2.0,MiniMax-M3,Pi,terminal-minimax-m3-pi-64k-1200-offline-v1,extract-elf,completed,incorrect,0,True,64000,0,[],[],0,881037,24950,905987,47948,833089,0,33,True,0,0,0
+terminal-bench-2.0,MiniMax-M3,Pi,terminal-minimax-m3-pi-64k-1200-offline-v1,extract-moves-from-video,completed,incorrect,0,True,64000,0,[],[],0,250317,8238,258555,16319,233998,0,31,False,1,0,0
+terminal-bench-2.0,MiniMax-M3,Pi,terminal-minimax-m3-pi-64k-1200-offline-v1,feal-differential-cryptanalysis,completed,incorrect,0,True,64000,0,[],[],0,7141,32990,40131,2638,4503,0,3,True,0,0,0
+terminal-bench-2.0,MiniMax-M3,Pi,terminal-minimax-m3-pi-64k-1200-offline-v1,feal-linear-cryptanalysis,completed,incorrect,0,True,64000,0,[],[],0,277610,57939,335549,33685,243925,0,32,False,6,0,0
+terminal-bench-2.0,MiniMax-M3,Pi,terminal-minimax-m3-pi-64k-1200-offline-v1,filter-js-from-html,completed,incorrect,0,True,64000,0,[],[],0,2489206,45341,2534547,21366,2467840,0,75,True,0,0,0
+terminal-bench-2.0,MiniMax-M3,Pi,terminal-minimax-m3-pi-64k-1200-offline-v1,financial-document-processor,completed,correct,1,True,64000,0,[],[],0,2619069,27454,2646523,60772,2558297,0,96,True,0,0,0
+terminal-bench-2.0,MiniMax-M3,Pi,terminal-minimax-m3-pi-64k-1200-offline-v1,fix-code-vulnerability,completed,correct,1,True,64000,0,[],[],0,648912,6668,655580,24996,623916,0,42,True,0,0,0
+terminal-bench-2.0,MiniMax-M3,Pi,terminal-minimax-m3-pi-64k-1200-offline-v1,fix-git,completed,correct,1,True,64000,0,[],[],0,57866,1935,59801,8713,49153,0,10,True,0,0,0
+terminal-bench-2.0,MiniMax-M3,Pi,terminal-minimax-m3-pi-64k-1200-offline-v1,fix-ocaml-gc,completed,incorrect,0,True,64000,1,[64323],[null],0,4195966,12509,4208475,111419,4084547,0,96,True,0,0,0
+terminal-bench-2.0,MiniMax-M3,Pi,terminal-minimax-m3-pi-64k-1200-offline-v1,gcode-to-text,completed,incorrect,0,True,64000,5,"[74729, 67443, 64012, 66126, 66423]","[null, null, null, null, null]",0,4804986,100226,4905212,517761,4287225,0,150,True,0,0,0
+terminal-bench-2.0,MiniMax-M3,Pi,terminal-minimax-m3-pi-64k-1200-offline-v1,git-leak-recovery,completed,correct,1,True,64000,0,[],[],0,53243,2252,55495,7119,46124,0,12,True,0,0,0
+terminal-bench-2.0,MiniMax-M3,Pi,terminal-minimax-m3-pi-64k-1200-offline-v1,git-multibranch,completed,incorrect,0,True,64000,0,[],[],0,2070655,17389,2088044,37714,2032941,0,95,True,0,0,0
+terminal-bench-2.0,MiniMax-M3,Pi,terminal-minimax-m3-pi-64k-1200-offline-v1,gpt2-codegolf,completed,incorrect,0,True,64000,0,[],[],0,1534475,33537,1568012,51036,1483439,0,57,True,0,0,0
+terminal-bench-2.0,MiniMax-M3,Pi,terminal-minimax-m3-pi-64k-1200-offline-v1,headless-terminal,completed,correct,1,True,64000,0,[],[],0,399653,13640,413293,22585,377068,0,33,True,0,0,0
+terminal-bench-2.0,MiniMax-M3,Pi,terminal-minimax-m3-pi-64k-1200-offline-v1,hf-model-inference,completed,correct,1,True,64000,0,[],[],0,121434,5191,126625,10194,111240,0,20,True,0,0,0
+terminal-bench-2.0,MiniMax-M3,Pi,terminal-minimax-m3-pi-64k-1200-offline-v1,install-windows-3.11,completed,incorrect,0,True,64000,4,"[71728, 64323, 64292, 70408]","[null, null, null, null]",0,7666183,80238,7746421,511696,7154487,0,209,True,0,0,0
+terminal-bench-2.0,MiniMax-M3,Pi,terminal-minimax-m3-pi-64k-1200-offline-v1,kv-store-grpc,completed,incorrect,0,True,64000,0,[],[],0,29834,1710,31544,4548,25286,0,9,True,0,0,0
+terminal-bench-2.0,MiniMax-M3,Pi,terminal-minimax-m3-pi-64k-1200-offline-v1,large-scale-text-editing,completed,correct,1,True,64000,0,[],[],0,229624,7761,237385,12811,216813,0,28,True,0,0,0
+terminal-bench-2.0,MiniMax-M3,Pi,terminal-minimax-m3-pi-64k-1200-offline-v1,largest-eigenval,completed,incorrect,0,True,64000,4,"[67482, 64773, 69396, 64566]","[null, null, null, null]",0,3240636,133257,3373893,483828,2756808,0,88,True,0,0,0
+terminal-bench-2.0,MiniMax-M3,Pi,terminal-minimax-m3-pi-64k-1200-offline-v1,llm-inference-batching-scheduler,completed,incorrect,0,True,64000,0,[],[],0,1170277,30112,1200389,63249,1107028,0,45,True,0,0,0
+terminal-bench-2.0,MiniMax-M3,Pi,terminal-minimax-m3-pi-64k-1200-offline-v1,log-summary-date-ranges,completed,correct,1,True,64000,0,[],[],0,54488,2451,56939,7748,46740,0,9,True,0,0,0
+terminal-bench-2.0,MiniMax-M3,Pi,terminal-minimax-m3-pi-64k-1200-offline-v1,mailman,completed,incorrect,0,True,64000,0,[],[],0,685187,5372,690559,24001,661186,0,40,True,0,0,0
+terminal-bench-2.0,MiniMax-M3,Pi,terminal-minimax-m3-pi-64k-1200-offline-v1,make-doom-for-mips,completed,incorrect,0,True,64000,2,"[64111, 64490]","[null, null]",0,8808752,55825,8864577,345761,8462991,0,195,True,0,0,0
+terminal-bench-2.0,MiniMax-M3,Pi,terminal-minimax-m3-pi-64k-1200-offline-v1,make-mips-interpreter,completed,incorrect,0,True,64000,0,[],[],0,80003,623,80626,19755,60248,0,7,True,0,0,0
+terminal-bench-2.0,MiniMax-M3,Pi,terminal-minimax-m3-pi-64k-1200-offline-v1,mcmc-sampling-stan,completed,incorrect,0,True,64000,0,[],[],0,73426,1755,75181,9361,64065,0,12,True,0,0,0
+terminal-bench-2.0,MiniMax-M3,Pi,terminal-minimax-m3-pi-64k-1200-offline-v1,merge-diff-arc-agi-task,completed,correct,1,True,64000,0,[],[],0,295384,7439,302823,16004,279380,0,32,True,0,0,0
+terminal-bench-2.0,MiniMax-M3,Pi,terminal-minimax-m3-pi-64k-1200-offline-v1,model-extraction-relu-logits,completed,incorrect,0,True,64000,0,[],[],0,6690,33158,39848,2577,4113,0,3,True,0,0,0
+terminal-bench-2.0,MiniMax-M3,Pi,terminal-minimax-m3-pi-64k-1200-offline-v1,modernize-scientific-stack,completed,correct,1,True,64000,0,[],[],0,59584,3695,63279,7354,52230,0,11,True,0,0,0
+terminal-bench-2.0,MiniMax-M3,Pi,terminal-minimax-m3-pi-64k-1200-offline-v1,mteb-leaderboard,completed,incorrect,0,True,64000,0,[],[],0,419207,4790,423997,26619,392588,0,30,True,0,0,0
+terminal-bench-2.0,MiniMax-M3,Pi,terminal-minimax-m3-pi-64k-1200-offline-v1,mteb-retrieve,completed,correct,1,True,64000,0,[],[],0,248436,5510,253946,14537,233899,0,28,True,0,0,0
+terminal-bench-2.0,MiniMax-M3,Pi,terminal-minimax-m3-pi-64k-1200-offline-v1,multi-source-data-merger,completed,correct,1,True,64000,0,[],[],0,25180,2612,27792,3420,21760,0,7,True,0,0,0
+terminal-bench-2.0,MiniMax-M3,Pi,terminal-minimax-m3-pi-64k-1200-offline-v1,nginx-request-logging,completed,correct,1,True,64000,0,[],[],0,68980,2299,71279,7839,61141,0,14,True,0,0,0
+terminal-bench-2.0,MiniMax-M3,Pi,terminal-minimax-m3-pi-64k-1200-offline-v1,openssl-selfsigned-cert,completed,correct,1,True,64000,0,[],[],0,22376,2051,24427,4394,17982,0,7,True,0,0,0
+terminal-bench-2.0,MiniMax-M3,Pi,terminal-minimax-m3-pi-64k-1200-offline-v1,overfull-hbox,completed,correct,1,True,64000,0,[],[],0,759582,11283,770865,19358,740224,0,51,True,0,0,0
+terminal-bench-2.0,MiniMax-M3,Pi,terminal-minimax-m3-pi-64k-1200-offline-v1,password-recovery,completed,correct,1,True,64000,1,[64092],[null],0,1922657,17993,1940650,142453,1780204,0,59,True,0,0,0
+terminal-bench-2.0,MiniMax-M3,Pi,terminal-minimax-m3-pi-64k-1200-offline-v1,path-tracing,completed,incorrect,0,True,64000,0,[],[],0,861109,27094,888203,52191,808918,0,39,True,0,0,0
+terminal-bench-2.0,MiniMax-M3,Pi,terminal-minimax-m3-pi-64k-1200-offline-v1,path-tracing-reverse,completed,incorrect,0,True,64000,10,"[64504, 69959, 69666, 64017, 65977, 67776, 65730, 67148, 65791, 64845]","[null, null, null, null, null, null, null, null, null, null]",0,4057728,204387,4262115,864105,3193623,0,97,False,6,0,0
+terminal-bench-2.0,MiniMax-M3,Pi,terminal-minimax-m3-pi-64k-1200-offline-v1,polyglot-c-py,completed,incorrect,0,True,64000,0,[],[],0,313193,13557,326750,19140,294053,0,31,True,0,0,0
+terminal-bench-2.0,MiniMax-M3,Pi,terminal-minimax-m3-pi-64k-1200-offline-v1,polyglot-rust-c,completed,correct,1,True,64000,0,[],[],0,706486,19636,726122,8630,697856,0,42,True,0,0,0
+terminal-bench-2.0,MiniMax-M3,Pi,terminal-minimax-m3-pi-64k-1200-offline-v1,portfolio-optimization,completed,incorrect,0,True,64000,0,[],[],0,2184243,31344,2215587,49671,2134572,0,80,True,0,0,0
+terminal-bench-2.0,MiniMax-M3,Pi,terminal-minimax-m3-pi-64k-1200-offline-v1,protein-assembly,completed,incorrect,0,True,64000,0,[],[],0,1097379,19919,1117298,44117,1053262,0,45,True,0,0,0
+terminal-bench-2.0,MiniMax-M3,Pi,terminal-minimax-m3-pi-64k-1200-offline-v1,prove-plus-comm,completed,correct,1,True,64000,0,[],[],0,16491,708,17199,2731,13760,0,7,True,0,0,0
+terminal-bench-2.0,MiniMax-M3,Pi,terminal-minimax-m3-pi-64k-1200-offline-v1,pypi-server,completed,incorrect,0,True,64000,0,[],[],0,568336,10931,579267,20884,547452,0,51,True,0,0,0
+terminal-bench-2.0,MiniMax-M3,Pi,terminal-minimax-m3-pi-64k-1200-offline-v1,pytorch-model-cli,completed,correct,1,True,64000,0,[],[],0,525384,12981,538365,23367,502017,0,37,True,0,0,0
+terminal-bench-2.0,MiniMax-M3,Pi,terminal-minimax-m3-pi-64k-1200-offline-v1,pytorch-model-recovery,completed,correct,1,True,64000,0,[],[],0,888649,23237,911886,39230,849419,0,33,True,0,0,0
+terminal-bench-2.0,MiniMax-M3,Pi,terminal-minimax-m3-pi-64k-1200-offline-v1,qemu-alpine-ssh,pending_error,unscored,,False,64000,0,[],[],0,260801,3890,264691,26884,233917,0,22,False,6,0,0
+terminal-bench-2.0,MiniMax-M3,Pi,terminal-minimax-m3-pi-64k-1200-offline-v1,qemu-startup,not_started,unscored,,False,64000,0,[],[],0,,,,,,,0,False,0,0,0
+terminal-bench-2.0,MiniMax-M3,Pi,terminal-minimax-m3-pi-64k-1200-offline-v1,query-optimize,not_started,unscored,,False,64000,0,[],[],0,,,,,,,0,False,0,0,0
+terminal-bench-2.0,MiniMax-M3,Pi,terminal-minimax-m3-pi-64k-1200-offline-v1,raman-fitting,not_started,unscored,,False,64000,0,[],[],0,,,,,,,0,False,0,0,0
+terminal-bench-2.0,MiniMax-M3,Pi,terminal-minimax-m3-pi-64k-1200-offline-v1,regex-chess,not_started,unscored,,False,64000,0,[],[],0,,,,,,,0,False,0,0,0
+terminal-bench-2.0,MiniMax-M3,Pi,terminal-minimax-m3-pi-64k-1200-offline-v1,regex-log,not_started,unscored,,False,64000,0,[],[],0,,,,,,,0,False,0,0,0
+terminal-bench-2.0,MiniMax-M3,Pi,terminal-minimax-m3-pi-64k-1200-offline-v1,reshard-c4-data,not_started,unscored,,False,64000,0,[],[],0,,,,,,,0,False,0,0,0
+terminal-bench-2.0,MiniMax-M3,Pi,terminal-minimax-m3-pi-64k-1200-offline-v1,rstan-to-pystan,not_started,unscored,,False,64000,0,[],[],0,,,,,,,0,False,0,0,0
+terminal-bench-2.0,MiniMax-M3,Pi,terminal-minimax-m3-pi-64k-1200-offline-v1,sam-cell-seg,not_started,unscored,,False,64000,0,[],[],0,,,,,,,0,False,0,0,0
+terminal-bench-2.0,MiniMax-M3,Pi,terminal-minimax-m3-pi-64k-1200-offline-v1,sanitize-git-repo,not_started,unscored,,False,64000,0,[],[],0,,,,,,,0,False,0,0,0
+terminal-bench-2.0,MiniMax-M3,Pi,terminal-minimax-m3-pi-64k-1200-offline-v1,schemelike-metacircular-eval,not_started,unscored,,False,64000,0,[],[],0,,,,,,,0,False,0,0,0
+terminal-bench-2.0,MiniMax-M3,Pi,terminal-minimax-m3-pi-64k-1200-offline-v1,sparql-university,not_started,unscored,,False,64000,0,[],[],0,,,,,,,0,False,0,0,0
+terminal-bench-2.0,MiniMax-M3,Pi,terminal-minimax-m3-pi-64k-1200-offline-v1,sqlite-db-truncate,not_started,unscored,,False,64000,0,[],[],0,,,,,,,0,False,0,0,0
+terminal-bench-2.0,MiniMax-M3,Pi,terminal-minimax-m3-pi-64k-1200-offline-v1,sqlite-with-gcov,not_started,unscored,,False,64000,0,[],[],0,,,,,,,0,False,0,0,0
+terminal-bench-2.0,MiniMax-M3,Pi,terminal-minimax-m3-pi-64k-1200-offline-v1,torch-pipeline-parallelism,not_started,unscored,,False,64000,0,[],[],0,,,,,,,0,False,0,0,0
+terminal-bench-2.0,MiniMax-M3,Pi,terminal-minimax-m3-pi-64k-1200-offline-v1,torch-tensor-parallelism,not_started,unscored,,False,64000,0,[],[],0,,,,,,,0,False,0,0,0
+terminal-bench-2.0,MiniMax-M3,Pi,terminal-minimax-m3-pi-64k-1200-offline-v1,train-fasttext,not_started,unscored,,False,64000,0,[],[],0,,,,,,,0,False,0,0,0
+terminal-bench-2.0,MiniMax-M3,Pi,terminal-minimax-m3-pi-64k-1200-offline-v1,tune-mjcf,not_started,unscored,,False,64000,0,[],[],0,,,,,,,0,False,0,0,0
+terminal-bench-2.0,MiniMax-M3,Pi,terminal-minimax-m3-pi-64k-1200-offline-v1,video-processing,not_started,unscored,,False,64000,0,[],[],0,,,,,,,0,False,0,0,0
+terminal-bench-2.0,MiniMax-M3,Pi,terminal-minimax-m3-pi-64k-1200-offline-v1,vulnerable-secret,not_started,unscored,,False,64000,0,[],[],0,,,,,,,0,False,0,0,0
+terminal-bench-2.0,MiniMax-M3,Pi,terminal-minimax-m3-pi-64k-1200-offline-v1,winning-avg-corewars,not_started,unscored,,False,64000,0,[],[],0,,,,,,,0,False,0,0,0
+terminal-bench-2.0,MiniMax-M3,Pi,terminal-minimax-m3-pi-64k-1200-offline-v1,write-compressor,not_started,unscored,,False,64000,0,[],[],0,,,,,,,0,False,0,0,0
+terminal-bench-2.0,MiniMax-M3,ZCode,terminal-minimax-m3-zcode-64k-1200-offline-v1,adaptive-rejection-sampler,completed,incorrect,0,True,64000,0,[],[],0,88461,160910,249371,11149,77312,0,8,True,0,0,0
+terminal-bench-2.0,MiniMax-M3,ZCode,terminal-minimax-m3-zcode-64k-1200-offline-v1,bn-fit-modify,completed,correct,1,True,64000,0,[],[],0,567391,17934,585325,35624,531767,0,27,True,0,0,0
+terminal-bench-2.0,MiniMax-M3,ZCode,terminal-minimax-m3-zcode-64k-1200-offline-v1,break-filter-js-from-html,completed,correct,1,True,64000,0,[],[],0,166819,13593,180412,24494,142325,0,9,True,0,0,0
+terminal-bench-2.0,MiniMax-M3,ZCode,terminal-minimax-m3-zcode-64k-1200-offline-v1,build-cython-ext,completed,incorrect,0,True,64000,0,[],[],0,1826842,23311,1850153,62154,1764688,0,51,True,0,0,0
+terminal-bench-2.0,MiniMax-M3,ZCode,terminal-minimax-m3-zcode-64k-1200-offline-v1,build-pmars,completed,correct,1,True,64000,1,[61518],[11557],1,2513858,34290,2548148,71712,2442146,0,70,True,0,0,0
+terminal-bench-2.0,MiniMax-M3,ZCode,terminal-minimax-m3-zcode-64k-1200-offline-v1,build-pov-ray,completed,correct,1,True,64000,0,[],[],0,1968803,20228,1989031,49855,1918948,0,60,True,0,0,0
+terminal-bench-2.0,MiniMax-M3,ZCode,terminal-minimax-m3-zcode-64k-1200-offline-v1,caffe-cifar-10,completed,incorrect,0,True,64000,0,[],[],0,738027,15359,753386,45467,692560,0,24,True,0,0,0
+terminal-bench-2.0,MiniMax-M3,ZCode,terminal-minimax-m3-zcode-64k-1200-offline-v1,cancel-async-tasks,completed,correct,1,True,64000,0,[],[],0,124747,9063,133810,18751,105996,0,8,True,0,0,0
+terminal-bench-2.0,MiniMax-M3,ZCode,terminal-minimax-m3-zcode-64k-1200-offline-v1,chess-best-move,completed,correct,1,True,64000,0,[],[],0,806573,20660,827233,36456,770117,0,32,True,0,0,0
+terminal-bench-2.0,MiniMax-M3,ZCode,terminal-minimax-m3-zcode-64k-1200-offline-v1,circuit-fibsqrt,completed,incorrect,0,True,64000,1,[58503],[14851],1,1587024,55917,1642941,102393,1484631,0,36,True,0,0,0
+terminal-bench-2.0,MiniMax-M3,ZCode,terminal-minimax-m3-zcode-64k-1200-offline-v1,cobol-modernization,completed,incorrect,0,True,64000,1,[63592],[12456],1,2236632,96622,2333254,127116,2109516,0,62,True,0,0,0
+terminal-bench-2.0,MiniMax-M3,ZCode,terminal-minimax-m3-zcode-64k-1200-offline-v1,code-from-image,completed,correct,1,True,64000,0,[],[],0,53263,924,54187,11191,42072,0,5,True,0,0,0
+terminal-bench-2.0,MiniMax-M3,ZCode,terminal-minimax-m3-zcode-64k-1200-offline-v1,compile-compcert,completed,incorrect,0,False,64000,0,[],[],0,708462,13916,722378,33593,674869,0,33,True,0,0,0
+terminal-bench-2.0,MiniMax-M3,ZCode,terminal-minimax-m3-zcode-64k-1200-offline-v1,configure-git-webserver,completed,incorrect,0,True,64000,0,[],[],0,537240,18905,556145,31111,506129,0,25,True,0,0,0
+terminal-bench-2.0,MiniMax-M3,ZCode,terminal-minimax-m3-zcode-64k-1200-offline-v1,constraints-scheduling,completed,correct,1,True,64000,0,[],[],0,82162,4523,86685,15637,66525,0,6,True,0,0,0
+terminal-bench-2.0,MiniMax-M3,ZCode,terminal-minimax-m3-zcode-64k-1200-offline-v1,count-dataset-tokens,completed,incorrect,0,True,64000,0,[],[],0,229406,4354,233760,20360,209046,0,16,True,0,0,0
+terminal-bench-2.0,MiniMax-M3,ZCode,terminal-minimax-m3-zcode-64k-1200-offline-v1,crack-7z-hash,completed,incorrect,0,True,64000,0,[],[],0,1705730,39117,1744847,60416,1645314,0,56,True,0,0,0
+terminal-bench-2.0,MiniMax-M3,ZCode,terminal-minimax-m3-zcode-64k-1200-offline-v1,custom-memory-heap-crash,completed,correct,1,True,64000,0,[],[],0,584577,18353,602930,40238,544339,0,23,True,0,0,0
+terminal-bench-2.0,MiniMax-M3,ZCode,terminal-minimax-m3-zcode-64k-1200-offline-v1,db-wal-recovery,completed,incorrect,0,True,64000,0,[],[],0,220325,11403,231728,24348,195977,0,13,True,0,0,0
+terminal-bench-2.0,MiniMax-M3,ZCode,terminal-minimax-m3-zcode-64k-1200-offline-v1,distribution-search,completed,correct,1,True,64000,0,[],[],0,413845,28219,442064,39136,374709,0,16,True,0,0,0
+terminal-bench-2.0,MiniMax-M3,ZCode,terminal-minimax-m3-zcode-64k-1200-offline-v1,dna-assembly,completed,incorrect,0,True,64000,1,[58073],[15071],1,1823735,91329,1915064,146078,1677657,0,81,True,0,0,0
+terminal-bench-2.0,MiniMax-M3,ZCode,terminal-minimax-m3-zcode-64k-1200-offline-v1,dna-insert,completed,incorrect,0,True,64000,0,[],[],0,378586,16861,395447,33865,344721,0,17,True,0,0,0
+terminal-bench-2.0,MiniMax-M3,ZCode,terminal-minimax-m3-zcode-64k-1200-offline-v1,extract-elf,completed,correct,1,True,64000,0,[],[],0,481502,23962,505464,42533,438969,0,17,True,0,0,0
+terminal-bench-2.0,MiniMax-M3,ZCode,terminal-minimax-m3-zcode-64k-1200-offline-v1,extract-moves-from-video,completed,incorrect,0,True,64000,0,[],[],0,430346,14375,444721,26805,403541,0,27,True,0,0,0
+terminal-bench-2.0,MiniMax-M3,ZCode,terminal-minimax-m3-zcode-64k-1200-offline-v1,feal-differential-cryptanalysis,completed,incorrect,0,True,64000,1,[59077],[28401],1,914421,83391,997812,107612,806809,0,23,True,0,0,0
+terminal-bench-2.0,MiniMax-M3,ZCode,terminal-minimax-m3-zcode-64k-1200-offline-v1,feal-linear-cryptanalysis,completed,correct,1,True,64000,0,[],[],0,865619,35880,901499,51936,813683,0,21,True,0,0,0
+terminal-bench-2.0,MiniMax-M3,ZCode,terminal-minimax-m3-zcode-64k-1200-offline-v1,filter-js-from-html,completed,incorrect,0,True,64000,1,[73776],[16159],1,1719199,65127,1784326,96040,1623159,0,42,True,0,0,0
+terminal-bench-2.0,MiniMax-M3,ZCode,terminal-minimax-m3-zcode-64k-1200-offline-v1,financial-document-processor,completed,correct,1,True,64000,0,[],[],0,1512915,18670,1531585,44499,1468416,0,48,True,0,0,0
+terminal-bench-2.0,MiniMax-M3,ZCode,terminal-minimax-m3-zcode-64k-1200-offline-v1,fix-code-vulnerability,completed,correct,1,True,64000,0,[],[],0,212087,3790,215877,18853,193234,0,14,True,0,0,0
+terminal-bench-2.0,MiniMax-M3,ZCode,terminal-minimax-m3-zcode-64k-1200-offline-v1,fix-git,completed,correct,1,True,64000,0,[],[],0,193363,5633,198996,20178,173185,0,12,True,0,0,0
+terminal-bench-2.0,MiniMax-M3,ZCode,terminal-minimax-m3-zcode-64k-1200-offline-v1,fix-ocaml-gc,completed,incorrect,0,True,64000,0,[],[],0,1753491,15763,1769254,115038,1638453,0,39,True,0,0,0
+terminal-bench-2.0,MiniMax-M3,ZCode,terminal-minimax-m3-zcode-64k-1200-offline-v1,gcode-to-text,completed,correct,1,True,64000,1,[70384],[7448],1,1672286,43327,1715613,78963,1593323,0,46,True,0,0,0
+terminal-bench-2.0,MiniMax-M3,ZCode,terminal-minimax-m3-zcode-64k-1200-offline-v1,git-leak-recovery,completed,correct,1,True,64000,0,[],[],0,170039,8698,178737,14647,155392,0,11,True,0,0,0
+terminal-bench-2.0,MiniMax-M3,ZCode,terminal-minimax-m3-zcode-64k-1200-offline-v1,git-multibranch,completed,correct,1,True,64000,0,[],[],0,1671032,35310,1706342,18040,1652992,0,48,True,0,0,0
+terminal-bench-2.0,MiniMax-M3,ZCode,terminal-minimax-m3-zcode-64k-1200-offline-v1,gpt2-codegolf,completed,incorrect,0,True,64000,1,[54444],[8993],1,2082361,98300,2180661,103063,1979298,0,50,True,0,0,0
+terminal-bench-2.0,MiniMax-M3,ZCode,terminal-minimax-m3-zcode-64k-1200-offline-v1,headless-terminal,completed,incorrect,0,True,64000,0,[],[],0,1602766,44728,1647494,63677,1539089,0,55,False,18,0,0
+terminal-bench-2.0,MiniMax-M3,ZCode,terminal-minimax-m3-zcode-64k-1200-offline-v1,hf-model-inference,completed,incorrect,0,True,64000,0,[],[],0,133405,3846,137251,26355,107050,0,21,False,11,0,0
+terminal-bench-2.0,MiniMax-M3,ZCode,terminal-minimax-m3-zcode-64k-1200-offline-v1,install-windows-3.11,completed,incorrect,0,True,64000,1,[57817],[10327],1,3861093,69427,3930520,93437,3767656,0,104,True,0,0,0
+terminal-bench-2.0,MiniMax-M3,ZCode,terminal-minimax-m3-zcode-64k-1200-offline-v1,kv-store-grpc,completed,incorrect,0,True,64000,0,[],[],0,134512,3922,138434,14664,119848,0,11,True,0,0,0
+terminal-bench-2.0,MiniMax-M3,ZCode,terminal-minimax-m3-zcode-64k-1200-offline-v1,large-scale-text-editing,completed,incorrect,0,True,64000,1,[62885],[9299],1,1053090,91870,1144960,98166,954924,0,32,True,0,0,0
+terminal-bench-2.0,MiniMax-M3,ZCode,terminal-minimax-m3-zcode-64k-1200-offline-v1,largest-eigenval,completed,incorrect,0,True,64000,2,"[104896, 59278]","[19178, 13137]",2,2112910,147229,2260139,116984,1995926,0,58,True,0,0,0
+terminal-bench-2.0,MiniMax-M3,ZCode,terminal-minimax-m3-zcode-64k-1200-offline-v1,llm-inference-batching-scheduler,completed,incorrect,0,True,64000,3,"[79698, 64675, 61968]","[39739, 16417, 18002]",3,1455662,156755,1612417,161849,1293813,0,33,True,0,0,0
+terminal-bench-2.0,MiniMax-M3,ZCode,terminal-minimax-m3-zcode-64k-1200-offline-v1,log-summary-date-ranges,completed,correct,1,True,64000,0,[],[],0,146621,5424,152045,16381,130240,0,11,True,0,0,0
+terminal-bench-2.0,MiniMax-M3,ZCode,terminal-minimax-m3-zcode-64k-1200-offline-v1,mailman,completed,incorrect,0,True,64000,3,"[80148, 74467, 67238]","[24995, 14163, 17992]",3,3741755,111112,3852867,153559,3588196,0,95,True,0,0,0
+terminal-bench-2.0,MiniMax-M3,ZCode,terminal-minimax-m3-zcode-64k-1200-offline-v1,make-doom-for-mips,completed,incorrect,0,True,64000,5,"[62847, 65482, 67262, 78061, 63806]","[17822, 19070, 18747, 30924, 14204]",5,4380744,136865,4517609,266492,4114252,0,102,True,0,0,0
+terminal-bench-2.0,MiniMax-M3,ZCode,terminal-minimax-m3-zcode-64k-1200-offline-v1,make-mips-interpreter,completed,incorrect,0,True,64000,3,"[52115, 51770, 52304]","[10951, 10980, 16056]",3,3128713,164661,3293374,220598,2908115,0,98,False,11,0,0
+terminal-bench-2.0,MiniMax-M3,ZCode,terminal-minimax-m3-zcode-64k-1200-offline-v1,mcmc-sampling-stan,completed,incorrect,0,True,64000,0,[],[],0,1181558,42372,1223930,63682,1117876,0,33,True,0,0,0
+terminal-bench-2.0,MiniMax-M3,ZCode,terminal-minimax-m3-zcode-64k-1200-offline-v1,merge-diff-arc-agi-task,completed,correct,1,True,64000,1,[66616],[12314],1,1036231,55230,1091461,34572,1001659,0,30,True,0,0,0
+terminal-bench-2.0,MiniMax-M3,ZCode,terminal-minimax-m3-zcode-64k-1200-offline-v1,model-extraction-relu-logits,completed,incorrect,0,True,64000,0,[],[],0,48872,127032,175904,9775,39097,0,5,True,0,0,0
+terminal-bench-2.0,MiniMax-M3,ZCode,terminal-minimax-m3-zcode-64k-1200-offline-v1,modernize-scientific-stack,completed,correct,1,True,64000,0,[],[],0,310527,13300,323827,30047,280480,0,15,True,0,0,0
+terminal-bench-2.0,MiniMax-M3,ZCode,terminal-minimax-m3-zcode-64k-1200-offline-v1,mteb-leaderboard,completed,incorrect,0,True,64000,0,[],[],0,1546597,49805,1596402,591414,955183,0,90,True,0,0,0
+terminal-bench-2.0,MiniMax-M3,ZCode,terminal-minimax-m3-zcode-64k-1200-offline-v1,mteb-retrieve,completed,correct,1,True,64000,0,[],[],0,670147,20461,690608,45317,624830,0,25,True,0,0,0
+terminal-bench-2.0,MiniMax-M3,ZCode,terminal-minimax-m3-zcode-64k-1200-offline-v1,multi-source-data-merger,completed,correct,1,True,64000,0,[],[],0,188880,8822,197702,19904,168976,0,12,True,0,0,0
+terminal-bench-2.0,MiniMax-M3,ZCode,terminal-minimax-m3-zcode-64k-1200-offline-v1,nginx-request-logging,completed,incorrect,0,True,64000,0,[],[],0,206212,6214,212426,19425,186787,0,14,True,0,0,0
+terminal-bench-2.0,MiniMax-M3,ZCode,terminal-minimax-m3-zcode-64k-1200-offline-v1,openssl-selfsigned-cert,completed,correct,1,True,64000,0,[],[],0,294617,7801,302418,18755,275862,0,21,True,0,0,0
+terminal-bench-2.0,MiniMax-M3,ZCode,terminal-minimax-m3-zcode-64k-1200-offline-v1,overfull-hbox,completed,correct,1,True,64000,0,[],[],0,2047571,38582,2086153,61172,1986399,0,49,True,0,0,0
+terminal-bench-2.0,MiniMax-M3,ZCode,terminal-minimax-m3-zcode-64k-1200-offline-v1,password-recovery,completed,correct,1,True,64000,1,[55461],[7170],1,912666,49895,962561,77165,835501,0,24,True,0,0,0
+terminal-bench-2.0,MiniMax-M3,ZCode,terminal-minimax-m3-zcode-64k-1200-offline-v1,path-tracing,completed,correct,1,True,64000,2,"[46714, 47397]","[11627, 7250]",2,1041884,63885,1105769,105694,936190,0,36,True,0,0,0
+terminal-bench-2.0,MiniMax-M3,ZCode,terminal-minimax-m3-zcode-64k-1200-offline-v1,path-tracing-reverse,completed,incorrect,0,True,64000,2,"[50966, 50482]","[19172, 12157]",2,1038109,95942,1134051,149012,889097,0,44,False,17,0,0
+terminal-bench-2.0,MiniMax-M3,ZCode,terminal-minimax-m3-zcode-64k-1200-offline-v1,polyglot-c-py,completed,incorrect,0,True,64000,0,[],[],0,751547,31013,782560,42012,709535,0,32,False,11,0,0
+terminal-bench-2.0,MiniMax-M3,ZCode,terminal-minimax-m3-zcode-64k-1200-offline-v1,polyglot-rust-c,completed,incorrect,0,True,64000,0,[],[],0,515627,66431,582058,54638,460989,0,14,True,0,0,0
+terminal-bench-2.0,MiniMax-M3,ZCode,terminal-minimax-m3-zcode-64k-1200-offline-v1,portfolio-optimization,completed,correct,1,True,64000,0,[],[],0,446405,24934,471339,15301,431104,0,16,True,0,0,0
+terminal-bench-2.0,MiniMax-M3,ZCode,terminal-minimax-m3-zcode-64k-1200-offline-v1,protein-assembly,completed,incorrect,0,True,64000,0,[],[],0,439633,13886,453519,62386,377247,0,25,True,0,0,0
+terminal-bench-2.0,MiniMax-M3,ZCode,terminal-minimax-m3-zcode-64k-1200-offline-v1,prove-plus-comm,completed,correct,1,True,64000,0,[],[],0,172118,5508,177626,15548,156570,0,13,True,0,0,0
+terminal-bench-2.0,MiniMax-M3,ZCode,terminal-minimax-m3-zcode-64k-1200-offline-v1,pypi-server,completed,incorrect,0,True,64000,0,[],[],0,386388,10171,396559,24838,361550,0,22,True,0,0,0
+terminal-bench-2.0,MiniMax-M3,ZCode,terminal-minimax-m3-zcode-64k-1200-offline-v1,pytorch-model-cli,completed,correct,1,True,64000,0,[],[],0,2551469,37297,2588766,63007,2488462,0,66,True,0,0,0
+terminal-bench-2.0,MiniMax-M3,ZCode,terminal-minimax-m3-zcode-64k-1200-offline-v1,pytorch-model-recovery,completed,correct,1,True,64000,1,[69498],[8955],1,2181832,69207,2251039,87726,2094106,0,56,True,0,0,0
+terminal-bench-2.0,MiniMax-M3,ZCode,terminal-minimax-m3-zcode-64k-1200-offline-v1,qemu-alpine-ssh,completed,incorrect,0,False,64000,0,[],[],0,1070052,28978,1099030,54694,1015358,0,30,True,0,0,0
+terminal-bench-2.0,MiniMax-M3,ZCode,terminal-minimax-m3-zcode-64k-1200-offline-v1,qemu-startup,completed,incorrect,0,False,64000,0,[],[],0,73145,2332,75477,11152,61993,0,7,True,0,0,0
+terminal-bench-2.0,MiniMax-M3,ZCode,terminal-minimax-m3-zcode-64k-1200-offline-v1,query-optimize,completed,incorrect,0,False,64000,1,[71759],[16244],1,1212142,85552,1297694,39378,1172764,0,42,True,0,0,0
+terminal-bench-2.0,MiniMax-M3,ZCode,terminal-minimax-m3-zcode-64k-1200-offline-v1,raman-fitting,completed,incorrect,0,False,64000,2,"[56970, 55331]","[9030, 8922]",2,2151895,126278,2278173,447596,1704299,0,96,False,1,0,0
+terminal-bench-2.0,MiniMax-M3,ZCode,terminal-minimax-m3-zcode-64k-1200-offline-v1,regex-chess,completed,incorrect,0,False,64000,0,[],[],0,54261,128106,182367,11028,43233,0,5,True,0,0,0
+terminal-bench-2.0,MiniMax-M3,ZCode,terminal-minimax-m3-zcode-64k-1200-offline-v1,regex-log,completed,correct,1,False,64000,0,[],[],0,349499,30640,380139,3003,346496,0,11,True,0,0,0
+terminal-bench-2.0,MiniMax-M3,ZCode,terminal-minimax-m3-zcode-64k-1200-offline-v1,reshard-c4-data,completed,correct,1,False,64000,1,[70645],[9383],1,2263315,48903,2312218,94548,2168767,0,53,True,0,0,0
+terminal-bench-2.0,MiniMax-M3,ZCode,terminal-minimax-m3-zcode-64k-1200-offline-v1,rstan-to-pystan,completed,incorrect,0,False,64000,0,[],[],0,221757,11203,232960,4541,217216,0,13,True,0,0,0
+terminal-bench-2.0,MiniMax-M3,ZCode,terminal-minimax-m3-zcode-64k-1200-offline-v1,sam-cell-seg,completed,incorrect,0,False,64000,0,[],[],0,379354,8978,388332,26205,353149,0,21,True,0,0,0
+terminal-bench-2.0,MiniMax-M3,ZCode,terminal-minimax-m3-zcode-64k-1200-offline-v1,sanitize-git-repo,completed,incorrect,0,False,64000,0,[],[],0,1366153,19091,1385244,48287,1317866,0,40,True,0,0,0
+terminal-bench-2.0,MiniMax-M3,ZCode,terminal-minimax-m3-zcode-64k-1200-offline-v1,schemelike-metacircular-eval,completed,incorrect,0,False,64000,1,[103159],[47887],1,654222,127945,782167,105297,548925,0,23,True,0,0,0
+terminal-bench-2.0,MiniMax-M3,ZCode,terminal-minimax-m3-zcode-64k-1200-offline-v1,sparql-university,completed,correct,1,False,64000,0,[],[],0,416711,16733,433444,33168,383543,0,19,True,0,0,0
+terminal-bench-2.0,MiniMax-M3,ZCode,terminal-minimax-m3-zcode-64k-1200-offline-v1,sqlite-db-truncate,completed,correct,1,False,64000,0,[],[],0,369655,38717,408372,50370,319285,0,12,True,0,0,0
+terminal-bench-2.0,MiniMax-M3,ZCode,terminal-minimax-m3-zcode-64k-1200-offline-v1,sqlite-with-gcov,completed,correct,1,False,64000,0,[],[],0,507112,9537,516649,23016,484096,0,24,True,0,0,0
+terminal-bench-2.0,MiniMax-M3,ZCode,terminal-minimax-m3-zcode-64k-1200-offline-v1,torch-pipeline-parallelism,completed,incorrect,0,False,64000,0,[],[],0,472511,33921,506432,36072,436439,0,21,True,0,0,0
+terminal-bench-2.0,MiniMax-M3,ZCode,terminal-minimax-m3-zcode-64k-1200-offline-v1,torch-tensor-parallelism,completed,incorrect,0,False,64000,1,[80218],[11230],1,1379756,74469,1454225,104743,1275013,0,35,True,0,0,0
+terminal-bench-2.0,MiniMax-M3,ZCode,terminal-minimax-m3-zcode-64k-1200-offline-v1,train-fasttext,completed,incorrect,0,False,64000,0,[],[],0,491349,18165,509514,36378,454971,0,23,False,1,0,0
+terminal-bench-2.0,MiniMax-M3,ZCode,terminal-minimax-m3-zcode-64k-1200-offline-v1,tune-mjcf,completed,incorrect,0,False,64000,0,[],[],0,1479328,37569,1516897,57488,1421840,0,45,True,0,0,0
+terminal-bench-2.0,MiniMax-M3,ZCode,terminal-minimax-m3-zcode-64k-1200-offline-v1,video-processing,completed,incorrect,0,False,64000,1,[49341],[11939],1,1370998,78245,1449243,121844,1249154,0,43,True,0,0,0
+terminal-bench-2.0,MiniMax-M3,ZCode,terminal-minimax-m3-zcode-64k-1200-offline-v1,vulnerable-secret,completed,correct,1,False,64000,0,[],[],0,191713,6823,198536,24714,166999,0,13,True,0,0,0
+terminal-bench-2.0,MiniMax-M3,ZCode,terminal-minimax-m3-zcode-64k-1200-offline-v1,winning-avg-corewars,completed,incorrect,0,False,64000,1,[78100],[27015],1,1614763,94878,1709641,126399,1488364,0,34,True,0,0,0
+terminal-bench-2.0,MiniMax-M3,ZCode,terminal-minimax-m3-zcode-64k-1200-offline-v1,write-compressor,completed,incorrect,0,False,64000,0,[],[],0,896493,48330,944823,60339,836154,0,18,True,0,0,0
